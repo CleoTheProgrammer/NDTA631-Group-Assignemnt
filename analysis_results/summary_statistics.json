@@ -1,0 +1,29 @@
+{
+    "ICT_Indicators_Count": 6,
+    "Cybersecurity_Indicators_Count": 8,
+    "Years_Analyzed": "2000-2024",
+    "Average_Internet_Growth_Rate": "13.95%",
+    "Cybersecurity_Score_Improvement": "7.78 points (2020-2024)",
+    "Average_ICT_Values": {
+        "Active mobile-broadband subscriptions per 100 inhabitants (ITU)": 43.08,
+        "Fixed-broadband subscriptions per 100 inhabitants (ITU)": 1.68,
+        "International bandwidth usage - per capita": 19068.24,
+        "Mobile-cellular subscriptions per 100 inhabitants (ITU)": 111.57,
+        "Percentage of households with internet access at home (ITU)": 34.69,
+        "Percentage of individuals using the internet (ITU)": 37.52
+    },
+    "Average_Cybersecurity_Values": {
+        "Capacity Development Score - CDS (ITU GCI)": 14.1,
+        "Child Online Protection - TS4 (ITU GCI)": 0.5,
+        "Cooperative Score - CS (ITU GCI)": 18.97,
+        "Cybercrime Regulation - LS2 (ITU GCI)": 0.93,
+        "Global Cybersecurity Index - Overall Score (ITU GCI)": 82.35,
+        "Organizational Score - OS (ITU GCI)": 13.67,
+        "Technical Score - TS (ITU GCI)": 17.21,
+        "Training for Cybersecurity Professionals - CDS2 (ITU GCI)": 0.65
+    },
+    "Significant_ICT_Changes_Count": 82,
+    "Significant_Cybersecurity_Changes_Count": 7,
+    "ICT_Data_Completeness": "100.0%",
+    "Cybersecurity_Data_Completeness": "100.0%"
+}

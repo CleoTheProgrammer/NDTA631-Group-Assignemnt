@@ -1,0 +1,23 @@
+{
+    "files_created": [
+        "cleaned_ict_south_africa.csv",
+        "cleaned_cybersecurity_south_africa.csv",
+        "ict_analysis_with_yoy.csv",
+        "cybersecurity_analysis_with_yoy.csv",
+        "ict_conditional_formatting.csv",
+        "cybersecurity_conditional_formatting.csv",
+        "summary_statistics.json",
+        "detailed_indicators_report.csv",
+        "trends_analysis_report.csv",
+        "south_africa_ict_cybersecurity_dashboard.png",
+        "yoy_analysis.png",
+        "significant_ict_changes.png",
+        "significant_cybersecurity_changes.png"
+    ],
+    "analysis_date": "2025-09-03 18:01:17",
+    "data_sources": [
+        "gci_ICT.csv",
+        "gci_Cybersecurity.csv"
+    ],
+    "analysis_period": "2000-2024"
+}

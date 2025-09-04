@@ -1,0 +1,17 @@
+REF_AREA,REF_AREA_LABEL,INDICATOR,INDICATOR_LABEL,Year,Value,Status
+ZAF,South Africa,ITU_GCI_GCI_OVRL_SCRE,Global Cybersecurity Index - Overall Score (ITU GCI),2020,78.46293525391707,Good
+ZAF,South Africa,ITU_GCI_GCI_OVRL_SCRE,Global Cybersecurity Index - Overall Score (ITU GCI),2024,86.24631585951451,Excellent
+ZAF,South Africa,ITU_GCI_CDS_SCORE,Capacity Development Score - CDS (ITU GCI),2020,15.36803260969505,Poor
+ZAF,South Africa,ITU_GCI_CDS_SCORE,Capacity Development Score - CDS (ITU GCI),2024,12.831478075928972,Poor
+ZAF,South Africa,ITU_GCI_COOP_SCORE,Cooperative Score - CS (ITU GCI),2020,17.932716049382716,Poor
+ZAF,South Africa,ITU_GCI_COOP_SCORE,Cooperative Score - CS (ITU GCI),2024,20.0,Poor
+ZAF,South Africa,ITU_GCI_TECH_SCORE,Technical Score - TS (ITU GCI),2020,15.845091195447846,Poor
+ZAF,South Africa,ITU_GCI_TECH_SCORE,Technical Score - TS (ITU GCI),2024,18.5733807804638,Poor
+ZAF,South Africa,ITU_GCI_ORG_SCORE,Organizational Score - OS (ITU GCI),2020,12.495042475932298,Poor
+ZAF,South Africa,ITU_GCI_ORG_SCORE,Organizational Score - OS (ITU GCI),2024,14.841457003121748,Poor
+ZAF,South Africa,ITU_GCI_LEGL_CBRCR_REG,Cybercrime Regulation - LS2 (ITU GCI),2020,0.8592376077586208,Poor
+ZAF,South Africa,ITU_GCI_LEGL_CBRCR_REG,Cybercrime Regulation - LS2 (ITU GCI),2024,1.0,Poor
+ZAF,South Africa,ITU_GCI_TECH_CHLD_PROT,Child Online Protection - TS4 (ITU GCI),2020,0.5,Poor
+ZAF,South Africa,ITU_GCI_TECH_CHLD_PROT,Child Online Protection - TS4 (ITU GCI),2024,0.5,Poor
+ZAF,South Africa,ITU_GCI_CDS_CYB_PROF_TRAIN,Training for Cybersecurity Professionals - CDS2 (ITU GCI),2020,0.7706473214285714,Poor
+ZAF,South Africa,ITU_GCI_CDS_CYB_PROF_TRAIN,Training for Cybersecurity Professionals - CDS2 (ITU GCI),2024,0.5264536940686786,Poor

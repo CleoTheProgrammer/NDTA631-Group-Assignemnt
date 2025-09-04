@@ -1,0 +1,151 @@
+REF_AREA,REF_AREA_LABEL,INDICATOR,INDICATOR_LABEL,Year,Value,Status
+ZAF,South Africa,ITU_DH_ACT_MOB_PER_100,Active mobile-broadband subscriptions per 100 inhabitants (ITU),2000,29.2596,Normal
+ZAF,South Africa,ITU_DH_ACT_MOB_PER_100,Active mobile-broadband subscriptions per 100 inhabitants (ITU),2001,29.2596,Normal
+ZAF,South Africa,ITU_DH_ACT_MOB_PER_100,Active mobile-broadband subscriptions per 100 inhabitants (ITU),2002,29.2596,Normal
+ZAF,South Africa,ITU_DH_ACT_MOB_PER_100,Active mobile-broadband subscriptions per 100 inhabitants (ITU),2003,29.2596,Normal
+ZAF,South Africa,ITU_DH_ACT_MOB_PER_100,Active mobile-broadband subscriptions per 100 inhabitants (ITU),2004,29.2596,Normal
+ZAF,South Africa,ITU_DH_ACT_MOB_PER_100,Active mobile-broadband subscriptions per 100 inhabitants (ITU),2005,29.2596,Normal
+ZAF,South Africa,ITU_DH_ACT_MOB_PER_100,Active mobile-broadband subscriptions per 100 inhabitants (ITU),2006,29.2596,Normal
+ZAF,South Africa,ITU_DH_ACT_MOB_PER_100,Active mobile-broadband subscriptions per 100 inhabitants (ITU),2007,29.2596,Normal
+ZAF,South Africa,ITU_DH_ACT_MOB_PER_100,Active mobile-broadband subscriptions per 100 inhabitants (ITU),2008,29.2596,Normal
+ZAF,South Africa,ITU_DH_ACT_MOB_PER_100,Active mobile-broadband subscriptions per 100 inhabitants (ITU),2009,29.2596,Normal
+ZAF,South Africa,ITU_DH_ACT_MOB_PER_100,Active mobile-broadband subscriptions per 100 inhabitants (ITU),2010,29.2596,Normal
+ZAF,South Africa,ITU_DH_ACT_MOB_PER_100,Active mobile-broadband subscriptions per 100 inhabitants (ITU),2011,29.2596,Normal
+ZAF,South Africa,ITU_DH_ACT_MOB_PER_100,Active mobile-broadband subscriptions per 100 inhabitants (ITU),2012,29.2596,Normal
+ZAF,South Africa,ITU_DH_ACT_MOB_PER_100,Active mobile-broadband subscriptions per 100 inhabitants (ITU),2013,29.2596,Normal
+ZAF,South Africa,ITU_DH_ACT_MOB_PER_100,Active mobile-broadband subscriptions per 100 inhabitants (ITU),2014,29.2596,Normal
+ZAF,South Africa,ITU_DH_ACT_MOB_PER_100,Active mobile-broadband subscriptions per 100 inhabitants (ITU),2015,49.532,Normal
+ZAF,South Africa,ITU_DH_ACT_MOB_PER_100,Active mobile-broadband subscriptions per 100 inhabitants (ITU),2016,54.1564,Normal
+ZAF,South Africa,ITU_DH_ACT_MOB_PER_100,Active mobile-broadband subscriptions per 100 inhabitants (ITU),2017,60.5407,High
+ZAF,South Africa,ITU_DH_ACT_MOB_PER_100,Active mobile-broadband subscriptions per 100 inhabitants (ITU),2018,64.6106,High
+ZAF,South Africa,ITU_DH_ACT_MOB_PER_100,Active mobile-broadband subscriptions per 100 inhabitants (ITU),2019,60.0794,Normal
+ZAF,South Africa,ITU_DH_ACT_MOB_PER_100,Active mobile-broadband subscriptions per 100 inhabitants (ITU),2020,66.7815,High
+ZAF,South Africa,ITU_DH_ACT_MOB_PER_100,Active mobile-broadband subscriptions per 100 inhabitants (ITU),2021,57.867,Normal
+ZAF,South Africa,ITU_DH_ACT_MOB_PER_100,Active mobile-broadband subscriptions per 100 inhabitants (ITU),2022,76.1471,High
+ZAF,South Africa,ITU_DH_ACT_MOB_PER_100,Active mobile-broadband subscriptions per 100 inhabitants (ITU),2023,76.1658,High
+ZAF,South Africa,ITU_DH_ACT_MOB_PER_100,Active mobile-broadband subscriptions per 100 inhabitants (ITU),2024,72.2792,High
+ZAF,South Africa,ITU_DH_FIX_BR_SUB_PER_100,Fixed-broadband subscriptions per 100 inhabitants (ITU),2000,0.00555817,Low
+ZAF,South Africa,ITU_DH_FIX_BR_SUB_PER_100,Fixed-broadband subscriptions per 100 inhabitants (ITU),2001,0.00555817,Low
+ZAF,South Africa,ITU_DH_FIX_BR_SUB_PER_100,Fixed-broadband subscriptions per 100 inhabitants (ITU),2002,0.00555817,Low
+ZAF,South Africa,ITU_DH_FIX_BR_SUB_PER_100,Fixed-broadband subscriptions per 100 inhabitants (ITU),2003,0.0418822,Low
+ZAF,South Africa,ITU_DH_FIX_BR_SUB_PER_100,Fixed-broadband subscriptions per 100 inhabitants (ITU),2004,0.12247,Low
+ZAF,South Africa,ITU_DH_FIX_BR_SUB_PER_100,Fixed-broadband subscriptions per 100 inhabitants (ITU),2005,0.333986,Low
+ZAF,South Africa,ITU_DH_FIX_BR_SUB_PER_100,Fixed-broadband subscriptions per 100 inhabitants (ITU),2006,0.670247,Normal
+ZAF,South Africa,ITU_DH_FIX_BR_SUB_PER_100,Fixed-broadband subscriptions per 100 inhabitants (ITU),2007,0.748091,Normal
+ZAF,South Africa,ITU_DH_FIX_BR_SUB_PER_100,Fixed-broadband subscriptions per 100 inhabitants (ITU),2008,0.833421,Normal
+ZAF,South Africa,ITU_DH_FIX_BR_SUB_PER_100,Fixed-broadband subscriptions per 100 inhabitants (ITU),2009,0.929855,Normal
+ZAF,South Africa,ITU_DH_FIX_BR_SUB_PER_100,Fixed-broadband subscriptions per 100 inhabitants (ITU),2010,1.41945,Normal
+ZAF,South Africa,ITU_DH_FIX_BR_SUB_PER_100,Fixed-broadband subscriptions per 100 inhabitants (ITU),2011,1.71148,Normal
+ZAF,South Africa,ITU_DH_FIX_BR_SUB_PER_100,Fixed-broadband subscriptions per 100 inhabitants (ITU),2012,2.05866,Normal
+ZAF,South Africa,ITU_DH_FIX_BR_SUB_PER_100,Fixed-broadband subscriptions per 100 inhabitants (ITU),2013,2.954,High
+ZAF,South Africa,ITU_DH_FIX_BR_SUB_PER_100,Fixed-broadband subscriptions per 100 inhabitants (ITU),2014,3.06919,High
+ZAF,South Africa,ITU_DH_FIX_BR_SUB_PER_100,Fixed-broadband subscriptions per 100 inhabitants (ITU),2015,2.48459,Normal
+ZAF,South Africa,ITU_DH_FIX_BR_SUB_PER_100,Fixed-broadband subscriptions per 100 inhabitants (ITU),2016,2.00974,Normal
+ZAF,South Africa,ITU_DH_FIX_BR_SUB_PER_100,Fixed-broadband subscriptions per 100 inhabitants (ITU),2017,1.94879,Normal
+ZAF,South Africa,ITU_DH_FIX_BR_SUB_PER_100,Fixed-broadband subscriptions per 100 inhabitants (ITU),2018,1.88868,Normal
+ZAF,South Africa,ITU_DH_FIX_BR_SUB_PER_100,Fixed-broadband subscriptions per 100 inhabitants (ITU),2019,2.09834,Normal
+ZAF,South Africa,ITU_DH_FIX_BR_SUB_PER_100,Fixed-broadband subscriptions per 100 inhabitants (ITU),2020,2.15159,Normal
+ZAF,South Africa,ITU_DH_FIX_BR_SUB_PER_100,Fixed-broadband subscriptions per 100 inhabitants (ITU),2021,2.75541,High
+ZAF,South Africa,ITU_DH_FIX_BR_SUB_PER_100,Fixed-broadband subscriptions per 100 inhabitants (ITU),2022,3.12297,High
+ZAF,South Africa,ITU_DH_FIX_BR_SUB_PER_100,Fixed-broadband subscriptions per 100 inhabitants (ITU),2023,3.40566,High
+ZAF,South Africa,ITU_DH_FIX_BR_SUB_PER_100,Fixed-broadband subscriptions per 100 inhabitants (ITU),2024,5.34791,High
+ZAF,South Africa,ITU_DH_INT_USER_PT,Percentage of individuals using the internet (ITU),2000,5.34856,Low
+ZAF,South Africa,ITU_DH_INT_USER_PT,Percentage of individuals using the internet (ITU),2001,6.34662,Low
+ZAF,South Africa,ITU_DH_INT_USER_PT,Percentage of individuals using the internet (ITU),2002,6.71032,Low
+ZAF,South Africa,ITU_DH_INT_USER_PT,Percentage of individuals using the internet (ITU),2003,7.00769,Low
+ZAF,South Africa,ITU_DH_INT_USER_PT,Percentage of individuals using the internet (ITU),2004,8.42512,Normal
+ZAF,South Africa,ITU_DH_INT_USER_PT,Percentage of individuals using the internet (ITU),2005,7.48854,Low
+ZAF,South Africa,ITU_DH_INT_USER_PT,Percentage of individuals using the internet (ITU),2006,7.60714,Low
+ZAF,South Africa,ITU_DH_INT_USER_PT,Percentage of individuals using the internet (ITU),2007,8.06538,Normal
+ZAF,South Africa,ITU_DH_INT_USER_PT,Percentage of individuals using the internet (ITU),2008,8.43,Normal
+ZAF,South Africa,ITU_DH_INT_USER_PT,Percentage of individuals using the internet (ITU),2009,10.0,Normal
+ZAF,South Africa,ITU_DH_INT_USER_PT,Percentage of individuals using the internet (ITU),2010,24.0,Normal
+ZAF,South Africa,ITU_DH_INT_USER_PT,Percentage of individuals using the internet (ITU),2011,33.97,Normal
+ZAF,South Africa,ITU_DH_INT_USER_PT,Percentage of individuals using the internet (ITU),2012,41.0,Normal
+ZAF,South Africa,ITU_DH_INT_USER_PT,Percentage of individuals using the internet (ITU),2013,46.5,Normal
+ZAF,South Africa,ITU_DH_INT_USER_PT,Percentage of individuals using the internet (ITU),2014,49.0,Normal
+ZAF,South Africa,ITU_DH_INT_USER_PT,Percentage of individuals using the internet (ITU),2015,51.9191,Normal
+ZAF,South Africa,ITU_DH_INT_USER_PT,Percentage of individuals using the internet (ITU),2016,54.0,Normal
+ZAF,South Africa,ITU_DH_INT_USER_PT,Percentage of individuals using the internet (ITU),2017,56.1674,Normal
+ZAF,South Africa,ITU_DH_INT_USER_PT,Percentage of individuals using the internet (ITU),2018,62.4,Normal
+ZAF,South Africa,ITU_DH_INT_USER_PT,Percentage of individuals using the internet (ITU),2019,69.6969,High
+ZAF,South Africa,ITU_DH_INT_USER_PT,Percentage of individuals using the internet (ITU),2020,72.1128,High
+ZAF,South Africa,ITU_DH_INT_USER_PT,Percentage of individuals using the internet (ITU),2021,74.9686,High
+ZAF,South Africa,ITU_DH_INT_USER_PT,Percentage of individuals using the internet (ITU),2022,75.4556,High
+ZAF,South Africa,ITU_DH_INT_USER_PT,Percentage of individuals using the internet (ITU),2023,75.6592,High
+ZAF,South Africa,ITU_DH_INT_USER_PT,Percentage of individuals using the internet (ITU),2024,75.6592,High
+ZAF,South Africa,ITU_DH_MOB_SUB_PER_100,Mobile-cellular subscriptions per 100 inhabitants (ITU),2000,17.6825,Low
+ZAF,South Africa,ITU_DH_MOB_SUB_PER_100,Mobile-cellular subscriptions per 100 inhabitants (ITU),2001,22.6776,Low
+ZAF,South Africa,ITU_DH_MOB_SUB_PER_100,Mobile-cellular subscriptions per 100 inhabitants (ITU),2002,28.5343,Low
+ZAF,South Africa,ITU_DH_MOB_SUB_PER_100,Mobile-cellular subscriptions per 100 inhabitants (ITU),2003,34.7626,Low
+ZAF,South Africa,ITU_DH_MOB_SUB_PER_100,Mobile-cellular subscriptions per 100 inhabitants (ITU),2004,42.536,Low
+ZAF,South Africa,ITU_DH_MOB_SUB_PER_100,Mobile-cellular subscriptions per 100 inhabitants (ITU),2005,68.6198,Low
+ZAF,South Africa,ITU_DH_MOB_SUB_PER_100,Mobile-cellular subscriptions per 100 inhabitants (ITU),2006,79.3267,Normal
+ZAF,South Africa,ITU_DH_MOB_SUB_PER_100,Mobile-cellular subscriptions per 100 inhabitants (ITU),2007,83.715,Normal
+ZAF,South Africa,ITU_DH_MOB_SUB_PER_100,Mobile-cellular subscriptions per 100 inhabitants (ITU),2008,88.0375,Normal
+ZAF,South Africa,ITU_DH_MOB_SUB_PER_100,Mobile-cellular subscriptions per 100 inhabitants (ITU),2009,89.7687,Normal
+ZAF,South Africa,ITU_DH_MOB_SUB_PER_100,Mobile-cellular subscriptions per 100 inhabitants (ITU),2010,96.2325,Normal
+ZAF,South Africa,ITU_DH_MOB_SUB_PER_100,Mobile-cellular subscriptions per 100 inhabitants (ITU),2011,120.766,Normal
+ZAF,South Africa,ITU_DH_MOB_SUB_PER_100,Mobile-cellular subscriptions per 100 inhabitants (ITU),2012,127.168,Normal
+ZAF,South Africa,ITU_DH_MOB_SUB_PER_100,Mobile-cellular subscriptions per 100 inhabitants (ITU),2013,140.576,Normal
+ZAF,South Africa,ITU_DH_MOB_SUB_PER_100,Mobile-cellular subscriptions per 100 inhabitants (ITU),2014,142.604,Normal
+ZAF,South Africa,ITU_DH_MOB_SUB_PER_100,Mobile-cellular subscriptions per 100 inhabitants (ITU),2015,155.138,Normal
+ZAF,South Africa,ITU_DH_MOB_SUB_PER_100,Mobile-cellular subscriptions per 100 inhabitants (ITU),2016,143.929,Normal
+ZAF,South Africa,ITU_DH_MOB_SUB_PER_100,Mobile-cellular subscriptions per 100 inhabitants (ITU),2017,153.548,Normal
+ZAF,South Africa,ITU_DH_MOB_SUB_PER_100,Mobile-cellular subscriptions per 100 inhabitants (ITU),2018,157.692,Normal
+ZAF,South Africa,ITU_DH_MOB_SUB_PER_100,Mobile-cellular subscriptions per 100 inhabitants (ITU),2019,162.739,High
+ZAF,South Africa,ITU_DH_MOB_SUB_PER_100,Mobile-cellular subscriptions per 100 inhabitants (ITU),2020,158.447,High
+ZAF,South Africa,ITU_DH_MOB_SUB_PER_100,Mobile-cellular subscriptions per 100 inhabitants (ITU),2021,163.128,High
+ZAF,South Africa,ITU_DH_MOB_SUB_PER_100,Mobile-cellular subscriptions per 100 inhabitants (ITU),2022,160.729,High
+ZAF,South Africa,ITU_DH_MOB_SUB_PER_100,Mobile-cellular subscriptions per 100 inhabitants (ITU),2023,171.509,High
+ZAF,South Africa,ITU_DH_MOB_SUB_PER_100,Mobile-cellular subscriptions per 100 inhabitants (ITU),2024,179.336,High
+ZAF,South Africa,ITU_DH_INT_BAND_PER_CAP,International bandwidth usage - per capita,2000,7.37918,Low
+ZAF,South Africa,ITU_DH_INT_BAND_PER_CAP,International bandwidth usage - per capita,2001,9.98596,Low
+ZAF,South Africa,ITU_DH_INT_BAND_PER_CAP,International bandwidth usage - per capita,2002,11.7557,Low
+ZAF,South Africa,ITU_DH_INT_BAND_PER_CAP,International bandwidth usage - per capita,2003,12.8968,Low
+ZAF,South Africa,ITU_DH_INT_BAND_PER_CAP,International bandwidth usage - per capita,2004,17.9929,Low
+ZAF,South Africa,ITU_DH_INT_BAND_PER_CAP,International bandwidth usage - per capita,2005,17.8117,Low
+ZAF,South Africa,ITU_DH_INT_BAND_PER_CAP,International bandwidth usage - per capita,2006,49.7017,Normal
+ZAF,South Africa,ITU_DH_INT_BAND_PER_CAP,International bandwidth usage - per capita,2007,66.8928,Normal
+ZAF,South Africa,ITU_DH_INT_BAND_PER_CAP,International bandwidth usage - per capita,2008,29345.8,Normal
+ZAF,South Africa,ITU_DH_INT_BAND_PER_CAP,International bandwidth usage - per capita,2009,38663.4,High
+ZAF,South Africa,ITU_DH_INT_BAND_PER_CAP,International bandwidth usage - per capita,2010,47760.9,High
+ZAF,South Africa,ITU_DH_INT_BAND_PER_CAP,International bandwidth usage - per capita,2011,52835.0,High
+ZAF,South Africa,ITU_DH_INT_BAND_PER_CAP,International bandwidth usage - per capita,2012,59498.8,High
+ZAF,South Africa,ITU_DH_INT_BAND_PER_CAP,International bandwidth usage - per capita,2013,64010.2,High
+ZAF,South Africa,ITU_DH_INT_BAND_PER_CAP,International bandwidth usage - per capita,2014,7554.66,Normal
+ZAF,South Africa,ITU_DH_INT_BAND_PER_CAP,International bandwidth usage - per capita,2015,7756.92,Normal
+ZAF,South Africa,ITU_DH_INT_BAND_PER_CAP,International bandwidth usage - per capita,2016,6593.82,Normal
+ZAF,South Africa,ITU_DH_INT_BAND_PER_CAP,International bandwidth usage - per capita,2017,10590.8,Normal
+ZAF,South Africa,ITU_DH_INT_BAND_PER_CAP,International bandwidth usage - per capita,2018,14750.4,Normal
+ZAF,South Africa,ITU_DH_INT_BAND_PER_CAP,International bandwidth usage - per capita,2019,19780.9,Normal
+ZAF,South Africa,ITU_DH_INT_BAND_PER_CAP,International bandwidth usage - per capita,2020,18757.8,Normal
+ZAF,South Africa,ITU_DH_INT_BAND_PER_CAP,International bandwidth usage - per capita,2021,15402.9,Normal
+ZAF,South Africa,ITU_DH_INT_BAND_PER_CAP,International bandwidth usage - per capita,2022,21028.8,Normal
+ZAF,South Africa,ITU_DH_INT_BAND_PER_CAP,International bandwidth usage - per capita,2023,31090.3,Normal
+ZAF,South Africa,ITU_DH_INT_BAND_PER_CAP,International bandwidth usage - per capita,2024,31090.3,Normal
+ZAF,South Africa,ITU_DH_HH_INT,Percentage of households with internet access at home (ITU),2000,1.92375,Low
+ZAF,South Africa,ITU_DH_HH_INT,Percentage of households with internet access at home (ITU),2001,1.92375,Low
+ZAF,South Africa,ITU_DH_HH_INT,Percentage of households with internet access at home (ITU),2002,1.92375,Low
+ZAF,South Africa,ITU_DH_HH_INT,Percentage of households with internet access at home (ITU),2003,2.11482,Low
+ZAF,South Africa,ITU_DH_HH_INT,Percentage of households with internet access at home (ITU),2004,2.5,Low
+ZAF,South Africa,ITU_DH_HH_INT,Percentage of households with internet access at home (ITU),2005,3.0,Low
+ZAF,South Africa,ITU_DH_HH_INT,Percentage of households with internet access at home (ITU),2006,3.6,Normal
+ZAF,South Africa,ITU_DH_HH_INT,Percentage of households with internet access at home (ITU),2007,4.76,Normal
+ZAF,South Africa,ITU_DH_HH_INT,Percentage of households with internet access at home (ITU),2008,6.5,Normal
+ZAF,South Africa,ITU_DH_HH_INT,Percentage of households with internet access at home (ITU),2009,8.83,Normal
+ZAF,South Africa,ITU_DH_HH_INT,Percentage of households with internet access at home (ITU),2010,10.1,Normal
+ZAF,South Africa,ITU_DH_HH_INT,Percentage of households with internet access at home (ITU),2011,23.94,Normal
+ZAF,South Africa,ITU_DH_HH_INT,Percentage of households with internet access at home (ITU),2012,33.92,Normal
+ZAF,South Africa,ITU_DH_HH_INT,Percentage of households with internet access at home (ITU),2013,34.35,Normal
+ZAF,South Africa,ITU_DH_HH_INT,Percentage of households with internet access at home (ITU),2014,44.2236,Normal
+ZAF,South Africa,ITU_DH_HH_INT,Percentage of households with internet access at home (ITU),2015,49.9582,Normal
+ZAF,South Africa,ITU_DH_HH_INT,Percentage of households with internet access at home (ITU),2016,59.767,Normal
+ZAF,South Africa,ITU_DH_HH_INT,Percentage of households with internet access at home (ITU),2017,61.8331,Normal
+ZAF,South Africa,ITU_DH_HH_INT,Percentage of households with internet access at home (ITU),2018,64.6971,High
+ZAF,South Africa,ITU_DH_HH_INT,Percentage of households with internet access at home (ITU),2019,63.251,Normal
+ZAF,South Africa,ITU_DH_HH_INT,Percentage of households with internet access at home (ITU),2020,74.1365,High
+ZAF,South Africa,ITU_DH_HH_INT,Percentage of households with internet access at home (ITU),2021,77.4708,High
+ZAF,South Africa,ITU_DH_HH_INT,Percentage of households with internet access at home (ITU),2022,75.2937,High
+ZAF,South Africa,ITU_DH_HH_INT,Percentage of households with internet access at home (ITU),2023,78.5948,High
+ZAF,South Africa,ITU_DH_HH_INT,Percentage of households with internet access at home (ITU),2024,78.5948,High

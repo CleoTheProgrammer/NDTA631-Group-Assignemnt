@@ -1,0 +1,53 @@
+REF_AREA,REF_AREA_LABEL,INDICATOR,INDICATOR_LABEL,Year,Value
+ZAF,South Africa,ITU_GCI_CDS_CYB_PROF_TRAIN,Training for Cybersecurity Professionals - CDS2 (ITU GCI),2020,0.7706473214285714
+ZAF,South Africa,ITU_GCI_CDS_GOV_ACAD,Educational programs or academic curricula in cybersecurity - CDS3 (ITU GCI),2020,1.0
+ZAF,South Africa,ITU_GCI_CDS_GOV_MCNSM,Government Incentive Mechanisms - CDS6 (ITU GCI),2020,0.0
+ZAF,South Africa,ITU_GCI_CDS_NAT_CYB_IND,National cybersecurity industry - CDS5 (ITU GCI),2020,1.0
+ZAF,South Africa,ITU_GCI_CDS_PUB_CYB_AWE,Public cybersecurity awareness campaigns - CDS1 (ITU GCI),2020,0.8750541125541126
+ZAF,South Africa,ITU_GCI_CDS_RND_PROG,Research and development programs on cybersecurity -CDS4 (ITU GCI),2020,1.0
+ZAF,South Africa,ITU_GCI_CDS_SCORE,Capacity Development Score - CDS (ITU GCI),2020,15.36803260969505
+ZAF,South Africa,ITU_GCI_COOP_BLTRL_AGR,Bilateral agreements on cybersecurity cooperation with other countries - CS1 (ITU GCI),2020,1.0
+ZAF,South Africa,ITU_GCI_COOP_CYB_MULT_AGR,Cybersecurity multilateral agreements -CS3 (ITU GCI),2020,1.0
+ZAF,South Africa,ITU_GCI_COOP_GOV_INT_PART,Government participation in international mechanisms related to cybersecurity activities -CS2 (ITU GCI),2020,1.0
+ZAF,South Africa,ITU_GCI_COOP_INTER_AGNCY,Inter-agency - CS5 (ITU GCI),2020,1.0
+ZAF,South Africa,ITU_GCI_COOP_PPPS,Partnerships with the private sector - CS4 (ITU GCI),2020,0.4527777777777778
+ZAF,South Africa,ITU_GCI_COOP_SCORE,Cooperative Score - CS (ITU GCI),2020,17.932716049382716
+ZAF,South Africa,ITU_GCI_GCI_OVRL_SCRE,Global Cybersecurity Index - Overall Score (ITU GCI),2020,78.46293525391707
+ZAF,South Africa,ITU_GCI_LEGL_CBRCR_REG,Cybercrime Regulation - LS2 (ITU GCI),2020,0.8592376077586208
+ZAF,South Africa,ITU_GCI_LEGL_CBRCR_SUBS,Cybercrime substantive law - LS1 (ITU GCI),2020,0.81974853515625
+ZAF,South Africa,ITU_GCI_LEGL_SCRE,Legal Score - LS (ITU GCI),2020,16.822052923459157
+ZAF,South Africa,ITU_GCI_ORG_CYB_MET,Cybersecurity metrics - OS3 (ITU GCI),2020,0.6599137931034482
+ZAF,South Africa,ITU_GCI_ORG_NTNL_STR,National Cybersecurity Strategy - OS1 (ITU GCI),2020,0.3658153640354888
+ZAF,South Africa,ITU_GCI_ORG_RSP_AGNC,Responsible Agency - OS2 (ITU GCI),2020,1.0
+ZAF,South Africa,ITU_GCI_ORG_SCORE,Organizational Score - OS (ITU GCI),2020,12.495042475932298
+ZAF,South Africa,ITU_GCI_TECH_CHLD_PROT,Child Online Protection - TS4 (ITU GCI),2020,0.5
+ZAF,South Africa,ITU_GCI_TECH_NAT_CCC,National CERT/CIRT/ CSIRT - TS1 (ITU GCI),2020,0.7880761316872428
+ZAF,South Africa,ITU_GCI_TECH_NTNL_FRMW,National framework for implementation of cybersecurity standards - TS3 (ITU GCI),2020,1.0
+ZAF,South Africa,ITU_GCI_TECH_SCORE,Technical Score - TS (ITU GCI),2020,15.845091195447846
+ZAF,South Africa,ITU_GCI_TECH_SECT_CCC,Sectorial CERT/CIRT/ CSIRT - TS2 (ITU GCI),2020,0.8338861869726066
+ZAF,South Africa,ITU_GCI_CDS_CYB_PROF_TRAIN,Training for Cybersecurity Professionals - CDS2 (ITU GCI),2024,0.5264536940686786
+ZAF,South Africa,ITU_GCI_CDS_GOV_ACAD,Educational programs or academic curricula in cybersecurity - CDS3 (ITU GCI),2024,0.2491935483870967
+ZAF,South Africa,ITU_GCI_CDS_GOV_MCNSM,Government Incentive Mechanisms - CDS6 (ITU GCI),2024,0.4866129032258064
+ZAF,South Africa,ITU_GCI_CDS_NAT_CYB_IND,National cybersecurity industry - CDS5 (ITU GCI),2024,0.7545161290322581
+ZAF,South Africa,ITU_GCI_CDS_PUB_CYB_AWE,Public cybersecurity awareness campaigns - CDS1 (ITU GCI),2024,0.8722580645161291
+ZAF,South Africa,ITU_GCI_CDS_RND_PROG,Research and development programs on cybersecurity -CDS4 (ITU GCI),2024,1.0
+ZAF,South Africa,ITU_GCI_CDS_SCORE,Capacity Development Score - CDS (ITU GCI),2024,12.831478075928972
+ZAF,South Africa,ITU_GCI_COOP_BLTRL_AGR,Bilateral agreements on cybersecurity cooperation with other countries - CS1 (ITU GCI),2024,1.0
+ZAF,South Africa,ITU_GCI_COOP_CYB_MULT_AGR,Cybersecurity multilateral agreements -CS3 (ITU GCI),2024,1.0
+ZAF,South Africa,ITU_GCI_COOP_GOV_INT_PART,Government participation in international mechanisms related to cybersecurity activities -CS2 (ITU GCI),2024,1.0
+ZAF,South Africa,ITU_GCI_COOP_INTER_AGNCY,Inter-agency - CS5 (ITU GCI),2024,1.0
+ZAF,South Africa,ITU_GCI_COOP_PPPS,Partnerships with the private sector - CS4 (ITU GCI),2024,1.0
+ZAF,South Africa,ITU_GCI_COOP_SCORE,Cooperative Score - CS (ITU GCI),2024,20.0
+ZAF,South Africa,ITU_GCI_GCI_OVRL_SCRE,Global Cybersecurity Index - Overall Score (ITU GCI),2024,86.24631585951451
+ZAF,South Africa,ITU_GCI_LEGL_CBRCR_REG,Cybercrime Regulation - LS2 (ITU GCI),2024,1.0
+ZAF,South Africa,ITU_GCI_LEGL_CBRCR_SUBS,Cybercrime substantive law - LS1 (ITU GCI),2024,1.0
+ZAF,South Africa,ITU_GCI_LEGL_SCRE,Legal Score - LS (ITU GCI),2024,20.0
+ZAF,South Africa,ITU_GCI_ORG_CYB_MET,Cybersecurity metrics - OS3 (ITU GCI),2024,1.0
+ZAF,South Africa,ITU_GCI_ORG_NTNL_STR,National Cybersecurity Strategy - OS1 (ITU GCI),2024,0.4554419354838709
+ZAF,South Africa,ITU_GCI_ORG_RSP_AGNC,Responsible Agency - OS2 (ITU GCI),2024,0.7935483870967742
+ZAF,South Africa,ITU_GCI_ORG_SCORE,Organizational Score - OS (ITU GCI),2024,14.841457003121748
+ZAF,South Africa,ITU_GCI_TECH_CHLD_PROT,Child Online Protection - TS4 (ITU GCI),2024,0.5
+ZAF,South Africa,ITU_GCI_TECH_NAT_CCC,National CERT/CIRT/ CSIRT - TS1 (ITU GCI),2024,0.9082086801426874
+ZAF,South Africa,ITU_GCI_TECH_NTNL_FRMW,National framework for implementation of cybersecurity standards - TS3 (ITU GCI),2024,1.0
+ZAF,South Africa,ITU_GCI_TECH_SCORE,Technical Score - TS (ITU GCI),2024,18.5733807804638
+ZAF,South Africa,ITU_GCI_TECH_SECT_CCC,Sectorial CERT/CIRT/ CSIRT - TS2 (ITU GCI),2024,0.8678867625011024

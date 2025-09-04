@@ -1,0 +1,15 @@
+Category,Indicator,First_Year,Last_Year,Min_Value,Max_Value,Average_Value,Data_Points
+ICT,Active mobile-broadband subscriptions per 100 inhabitants (ITU),2000,2024,29.2596,76.1658,43.082148,25
+ICT,Fixed-broadband subscriptions per 100 inhabitants (ITU),2000,2024,0.00555817,5.34791,1.6849234683999998,25
+ICT,Percentage of households with internet access at home (ITU),2000,2024,1.92375,78.5948,34.688266799999994,25
+ICT,International bandwidth usage - per capita,2000,2024,7.37918,64010.2,19068.244669599997,25
+ICT,Percentage of individuals using the internet (ITU),2000,2024,5.34856,75.6592,37.5175268,25
+ICT,Mobile-cellular subscriptions per 100 inhabitants (ITU),2000,2024,17.6825,179.336,111.56808799999999,25
+Cybersecurity,Training for Cybersecurity Professionals - CDS2 (ITU GCI),2020,2024,0.5264536940686786,0.7706473214285714,0.648550507748625,2
+Cybersecurity,Capacity Development Score - CDS (ITU GCI),2020,2024,12.831478075928972,15.36803260969505,14.09975534281201,2
+Cybersecurity,Cooperative Score - CS (ITU GCI),2020,2024,17.932716049382716,20.0,18.96635802469136,2
+Cybersecurity,Global Cybersecurity Index - Overall Score (ITU GCI),2020,2024,78.46293525391707,86.24631585951451,82.35462555671579,2
+Cybersecurity,Cybercrime Regulation - LS2 (ITU GCI),2020,2024,0.8592376077586208,1.0,0.9296188038793104,2
+Cybersecurity,Organizational Score - OS (ITU GCI),2020,2024,12.495042475932298,14.841457003121748,13.668249739527024,2
+Cybersecurity,Child Online Protection - TS4 (ITU GCI),2020,2024,0.5,0.5,0.5,2
+Cybersecurity,Technical Score - TS (ITU GCI),2020,2024,15.845091195447846,18.5733807804638,17.20923598795582,2

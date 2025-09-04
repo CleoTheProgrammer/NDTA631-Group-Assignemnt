@@ -1,0 +1,976 @@
+REF_AREA,REF_AREA_LABEL,INDICATOR,INDICATOR_LABEL,Year,Value
+ZAF,South Africa,ITU_DH_ACT_MOB_PER_100,Active mobile-broadband subscriptions per 100 inhabitants (ITU),2000,29.2596
+ZAF,South Africa,ITU_DH_COMP_FIB,Competition in Fiber (ITU),2000,2.0
+ZAF,South Africa,ITU_DH_COMP_INT_GTW,Competition in International Gateways (ITU),2000,1.0
+ZAF,South Africa,ITU_DH_COMP_INT_SER,Competition in Internet Services (ITU),2000,2.0
+ZAF,South Africa,ITU_DH_COMP_MOB_BB,Competition in Mobile Broadband (ITU),2000,2.0
+ZAF,South Africa,ITU_DH_FIX_BR_SUB_PER_100,Fixed-broadband subscriptions per 100 inhabitants (ITU),2000,0.00555817
+ZAF,South Africa,ITU_DH_FIX_SUB_PER_100,Fixed-telephone subscriptions per 100 inhabitants (ITU),2000,10.5211
+ZAF,South Africa,ITU_DH_FIX_TEL_OR_MOB,Percentage of households with fixed-line telephone or mobile (ITU),2000,17.9255
+ZAF,South Africa,ITU_DH_HH_COMP,Percentage of households with a computer (ITU),2000,8.6
+ZAF,South Africa,ITU_DH_HH_INT,Percentage of households with internet access at home (ITU),2000,1.92375
+ZAF,South Africa,ITU_DH_HH_RAD,Percentage of households with a radio (ITU),2000,79.0848
+ZAF,South Africa,ITU_DH_HH_TV,Percentage of households with TV (ITU),2000,60.5034
+ZAF,South Africa,ITU_DH_INT_BAND_PER_CAP,International bandwidth usage - per capita,2000,7.37918
+ZAF,South Africa,ITU_DH_INT_BAND_PER_INT_USR,International bandwidth usage - per internet user,2000,137.966
+ZAF,South Africa,ITU_DH_INT_CONN_BAND,International bandwidth usage,2000,348.0
+ZAF,South Africa,ITU_DH_INT_CONN_BAND_CAP,Lit/equipped international bandwidth capacity,2000,934578.0
+ZAF,South Africa,ITU_DH_INT_USER_PT,Percentage of individuals using the internet (ITU),2000,5.34856
+ZAF,South Africa,ITU_DH_MOB_SUB_PER_100,Mobile-cellular subscriptions per 100 inhabitants (ITU),2000,17.6825
+ZAF,South Africa,ITU_DH_POP_COV_2G,"Population coverage, at least 2G",2000,92.0
+ZAF,South Africa,ITU_DH_POP_COV_3G,"Population coverage, at least 3G",2000,84.25
+ZAF,South Africa,ITU_DH_POP_COV_4G,"Population coverage, at least 4G",2000,5.0
+ZAF,South Africa,ITU_DH_POP_COV_5G,"Population coverage, at least 5G",2000,0.96
+ZAF,South Africa,ITU_DH_PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),2000,48.19
+ZAF,South Africa,ITU_DH_PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),2000,48.19
+ZAF,South Africa,ITU_DH_PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),2000,48.19
+ZAF,South Africa,ITU_DH_PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),2000,46.57
+ZAF,South Africa,ITU_DH_PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),2000,46.57
+ZAF,South Africa,ITU_DH_PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),2000,46.57
+ZAF,South Africa,ITU_DH_PRI_HU_VD,Price of a high usage voice and data bundle (ITU),2000,69.36
+ZAF,South Africa,ITU_DH_PRI_HU_VD,Price of a high usage voice and data bundle (ITU),2000,69.36
+ZAF,South Africa,ITU_DH_PRI_HU_VD,Price of a high usage voice and data bundle (ITU),2000,69.36
+ZAF,South Africa,ITU_DH_PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),2000,42.36
+ZAF,South Africa,ITU_DH_PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),2000,42.36
+ZAF,South Africa,ITU_DH_PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),2000,42.36
+ZAF,South Africa,ITU_DH_PRI_LU_VD,Price of a low usage voice and data bundle (ITU),2000,29.78
+ZAF,South Africa,ITU_DH_PRI_LU_VD,Price of a low usage voice and data bundle (ITU),2000,29.78
+ZAF,South Africa,ITU_DH_PRI_LU_VD,Price of a low usage voice and data bundle (ITU),2000,29.78
+ZAF,South Africa,ITU_DH_TRAF_FIX_BB,Fixed-broadband internet traffic,2000,0.33
+ZAF,South Africa,ITU_DH_TRAF_MOB_BB,Mobile-broadband internet traffic within the country,2000,0.0389774
+ZAF,South Africa,ITU_DH_ACT_MOB_PER_100,Active mobile-broadband subscriptions per 100 inhabitants (ITU),2001,29.2596
+ZAF,South Africa,ITU_DH_COMP_FIB,Competition in Fiber (ITU),2001,2.0
+ZAF,South Africa,ITU_DH_COMP_INT_GTW,Competition in International Gateways (ITU),2001,1.0
+ZAF,South Africa,ITU_DH_COMP_INT_SER,Competition in Internet Services (ITU),2001,2.0
+ZAF,South Africa,ITU_DH_COMP_MOB_BB,Competition in Mobile Broadband (ITU),2001,2.0
+ZAF,South Africa,ITU_DH_FIX_BR_SUB_PER_100,Fixed-broadband subscriptions per 100 inhabitants (ITU),2001,0.00555817
+ZAF,South Africa,ITU_DH_FIX_SUB_PER_100,Fixed-telephone subscriptions per 100 inhabitants (ITU),2001,10.3527
+ZAF,South Africa,ITU_DH_FIX_TEL_OR_MOB,Percentage of households with fixed-line telephone or mobile (ITU),2001,17.9255
+ZAF,South Africa,ITU_DH_HH_COMP,Percentage of households with a computer (ITU),2001,8.6
+ZAF,South Africa,ITU_DH_HH_INT,Percentage of households with internet access at home (ITU),2001,1.92375
+ZAF,South Africa,ITU_DH_HH_RAD,Percentage of households with a radio (ITU),2001,79.0848
+ZAF,South Africa,ITU_DH_HH_TV,Percentage of households with TV (ITU),2001,60.5034
+ZAF,South Africa,ITU_DH_INT_BAND_PER_CAP,International bandwidth usage - per capita,2001,9.98596
+ZAF,South Africa,ITU_DH_INT_BAND_PER_INT_USR,International bandwidth usage - per internet user,2001,157.343
+ZAF,South Africa,ITU_DH_INT_CONN_BAND,International bandwidth usage,2001,475.0
+ZAF,South Africa,ITU_DH_INT_CONN_BAND_CAP,Lit/equipped international bandwidth capacity,2001,934578.0
+ZAF,South Africa,ITU_DH_INT_USER_PT,Percentage of individuals using the internet (ITU),2001,6.34662
+ZAF,South Africa,ITU_DH_MOB_SUB_PER_100,Mobile-cellular subscriptions per 100 inhabitants (ITU),2001,22.6776
+ZAF,South Africa,ITU_DH_POP_COV_2G,"Population coverage, at least 2G",2001,93.0
+ZAF,South Africa,ITU_DH_POP_COV_3G,"Population coverage, at least 3G",2001,84.25
+ZAF,South Africa,ITU_DH_POP_COV_4G,"Population coverage, at least 4G",2001,5.0
+ZAF,South Africa,ITU_DH_POP_COV_5G,"Population coverage, at least 5G",2001,0.96
+ZAF,South Africa,ITU_DH_PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),2001,48.19
+ZAF,South Africa,ITU_DH_PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),2001,48.19
+ZAF,South Africa,ITU_DH_PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),2001,48.19
+ZAF,South Africa,ITU_DH_PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),2001,46.57
+ZAF,South Africa,ITU_DH_PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),2001,46.57
+ZAF,South Africa,ITU_DH_PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),2001,46.57
+ZAF,South Africa,ITU_DH_PRI_HU_VD,Price of a high usage voice and data bundle (ITU),2001,69.36
+ZAF,South Africa,ITU_DH_PRI_HU_VD,Price of a high usage voice and data bundle (ITU),2001,69.36
+ZAF,South Africa,ITU_DH_PRI_HU_VD,Price of a high usage voice and data bundle (ITU),2001,69.36
+ZAF,South Africa,ITU_DH_PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),2001,42.36
+ZAF,South Africa,ITU_DH_PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),2001,42.36
+ZAF,South Africa,ITU_DH_PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),2001,42.36
+ZAF,South Africa,ITU_DH_PRI_LU_VD,Price of a low usage voice and data bundle (ITU),2001,29.78
+ZAF,South Africa,ITU_DH_PRI_LU_VD,Price of a low usage voice and data bundle (ITU),2001,29.78
+ZAF,South Africa,ITU_DH_PRI_LU_VD,Price of a low usage voice and data bundle (ITU),2001,29.78
+ZAF,South Africa,ITU_DH_TRAF_FIX_BB,Fixed-broadband internet traffic,2001,0.33
+ZAF,South Africa,ITU_DH_TRAF_MOB_BB,Mobile-broadband internet traffic within the country,2001,0.0389774
+ZAF,South Africa,ITU_DH_ACT_MOB_PER_100,Active mobile-broadband subscriptions per 100 inhabitants (ITU),2002,29.2596
+ZAF,South Africa,ITU_DH_COMP_FIB,Competition in Fiber (ITU),2002,2.0
+ZAF,South Africa,ITU_DH_COMP_INT_GTW,Competition in International Gateways (ITU),2002,1.0
+ZAF,South Africa,ITU_DH_COMP_INT_SER,Competition in Internet Services (ITU),2002,2.0
+ZAF,South Africa,ITU_DH_COMP_MOB_BB,Competition in Mobile Broadband (ITU),2002,2.0
+ZAF,South Africa,ITU_DH_FIX_BR_SUB_PER_100,Fixed-broadband subscriptions per 100 inhabitants (ITU),2002,0.00555817
+ZAF,South Africa,ITU_DH_FIX_SUB_PER_100,Fixed-telephone subscriptions per 100 inhabitants (ITU),2002,10.2396
+ZAF,South Africa,ITU_DH_FIX_TEL_OR_MOB,Percentage of households with fixed-line telephone or mobile (ITU),2002,17.9255
+ZAF,South Africa,ITU_DH_HH_COMP,Percentage of households with a computer (ITU),2002,9.90909
+ZAF,South Africa,ITU_DH_HH_INT,Percentage of households with internet access at home (ITU),2002,1.92375
+ZAF,South Africa,ITU_DH_HH_RAD,Percentage of households with a radio (ITU),2002,79.0848
+ZAF,South Africa,ITU_DH_HH_TV,Percentage of households with TV (ITU),2002,60.5034
+ZAF,South Africa,ITU_DH_INT_BAND_PER_CAP,International bandwidth usage - per capita,2002,11.7557
+ZAF,South Africa,ITU_DH_INT_BAND_PER_INT_USR,International bandwidth usage - per internet user,2002,175.188
+ZAF,South Africa,ITU_DH_INT_CONN_BAND,International bandwidth usage,2002,564.5
+ZAF,South Africa,ITU_DH_INT_CONN_BAND_CAP,Lit/equipped international bandwidth capacity,2002,934578.0
+ZAF,South Africa,ITU_DH_INT_USER_PT,Percentage of individuals using the internet (ITU),2002,6.71032
+ZAF,South Africa,ITU_DH_MOB_SUB_PER_100,Mobile-cellular subscriptions per 100 inhabitants (ITU),2002,28.5343
+ZAF,South Africa,ITU_DH_POP_COV_2G,"Population coverage, at least 2G",2002,95.1
+ZAF,South Africa,ITU_DH_POP_COV_3G,"Population coverage, at least 3G",2002,84.25
+ZAF,South Africa,ITU_DH_POP_COV_4G,"Population coverage, at least 4G",2002,5.0
+ZAF,South Africa,ITU_DH_POP_COV_5G,"Population coverage, at least 5G",2002,0.96
+ZAF,South Africa,ITU_DH_PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),2002,48.19
+ZAF,South Africa,ITU_DH_PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),2002,48.19
+ZAF,South Africa,ITU_DH_PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),2002,48.19
+ZAF,South Africa,ITU_DH_PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),2002,46.57
+ZAF,South Africa,ITU_DH_PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),2002,46.57
+ZAF,South Africa,ITU_DH_PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),2002,46.57
+ZAF,South Africa,ITU_DH_PRI_HU_VD,Price of a high usage voice and data bundle (ITU),2002,69.36
+ZAF,South Africa,ITU_DH_PRI_HU_VD,Price of a high usage voice and data bundle (ITU),2002,69.36
+ZAF,South Africa,ITU_DH_PRI_HU_VD,Price of a high usage voice and data bundle (ITU),2002,69.36
+ZAF,South Africa,ITU_DH_PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),2002,42.36
+ZAF,South Africa,ITU_DH_PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),2002,42.36
+ZAF,South Africa,ITU_DH_PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),2002,42.36
+ZAF,South Africa,ITU_DH_PRI_LU_VD,Price of a low usage voice and data bundle (ITU),2002,29.78
+ZAF,South Africa,ITU_DH_PRI_LU_VD,Price of a low usage voice and data bundle (ITU),2002,29.78
+ZAF,South Africa,ITU_DH_PRI_LU_VD,Price of a low usage voice and data bundle (ITU),2002,29.78
+ZAF,South Africa,ITU_DH_TRAF_FIX_BB,Fixed-broadband internet traffic,2002,0.33
+ZAF,South Africa,ITU_DH_TRAF_MOB_BB,Mobile-broadband internet traffic within the country,2002,0.0389774
+ZAF,South Africa,ITU_DH_ACT_MOB_PER_100,Active mobile-broadband subscriptions per 100 inhabitants (ITU),2003,29.2596
+ZAF,South Africa,ITU_DH_COMP_FIB,Competition in Fiber (ITU),2003,2.0
+ZAF,South Africa,ITU_DH_COMP_INT_GTW,Competition in International Gateways (ITU),2003,1.0
+ZAF,South Africa,ITU_DH_COMP_INT_SER,Competition in Internet Services (ITU),2003,2.0
+ZAF,South Africa,ITU_DH_COMP_MOB_BB,Competition in Mobile Broadband (ITU),2003,2.0
+ZAF,South Africa,ITU_DH_FIX_BR_SUB_PER_100,Fixed-broadband subscriptions per 100 inhabitants (ITU),2003,0.0418822
+ZAF,South Africa,ITU_DH_FIX_SUB_PER_100,Fixed-telephone subscriptions per 100 inhabitants (ITU),2003,10.1236
+ZAF,South Africa,ITU_DH_FIX_TEL_OR_MOB,Percentage of households with fixed-line telephone or mobile (ITU),2003,17.9255
+ZAF,South Africa,ITU_DH_HH_COMP,Percentage of households with a computer (ITU),2003,11.0
+ZAF,South Africa,ITU_DH_HH_INT,Percentage of households with internet access at home (ITU),2003,2.11482
+ZAF,South Africa,ITU_DH_HH_RAD,Percentage of households with a radio (ITU),2003,79.0848
+ZAF,South Africa,ITU_DH_HH_TV,Percentage of households with TV (ITU),2003,60.5034
+ZAF,South Africa,ITU_DH_INT_BAND_PER_CAP,International bandwidth usage - per capita,2003,12.8968
+ZAF,South Africa,ITU_DH_INT_BAND_PER_INT_USR,International bandwidth usage - per internet user,2003,184.038
+ZAF,South Africa,ITU_DH_INT_CONN_BAND,International bandwidth usage,2003,625.5
+ZAF,South Africa,ITU_DH_INT_CONN_BAND_CAP,Lit/equipped international bandwidth capacity,2003,934578.0
+ZAF,South Africa,ITU_DH_INT_USER_PT,Percentage of individuals using the internet (ITU),2003,7.00769
+ZAF,South Africa,ITU_DH_MOB_SUB_PER_100,Mobile-cellular subscriptions per 100 inhabitants (ITU),2003,34.7626
+ZAF,South Africa,ITU_DH_POP_COV_2G,"Population coverage, at least 2G",2003,96.0
+ZAF,South Africa,ITU_DH_POP_COV_3G,"Population coverage, at least 3G",2003,84.25
+ZAF,South Africa,ITU_DH_POP_COV_4G,"Population coverage, at least 4G",2003,5.0
+ZAF,South Africa,ITU_DH_POP_COV_5G,"Population coverage, at least 5G",2003,0.96
+ZAF,South Africa,ITU_DH_PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),2003,48.19
+ZAF,South Africa,ITU_DH_PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),2003,48.19
+ZAF,South Africa,ITU_DH_PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),2003,48.19
+ZAF,South Africa,ITU_DH_PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),2003,46.57
+ZAF,South Africa,ITU_DH_PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),2003,46.57
+ZAF,South Africa,ITU_DH_PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),2003,46.57
+ZAF,South Africa,ITU_DH_PRI_HU_VD,Price of a high usage voice and data bundle (ITU),2003,69.36
+ZAF,South Africa,ITU_DH_PRI_HU_VD,Price of a high usage voice and data bundle (ITU),2003,69.36
+ZAF,South Africa,ITU_DH_PRI_HU_VD,Price of a high usage voice and data bundle (ITU),2003,69.36
+ZAF,South Africa,ITU_DH_PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),2003,42.36
+ZAF,South Africa,ITU_DH_PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),2003,42.36
+ZAF,South Africa,ITU_DH_PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),2003,42.36
+ZAF,South Africa,ITU_DH_PRI_LU_VD,Price of a low usage voice and data bundle (ITU),2003,29.78
+ZAF,South Africa,ITU_DH_PRI_LU_VD,Price of a low usage voice and data bundle (ITU),2003,29.78
+ZAF,South Africa,ITU_DH_PRI_LU_VD,Price of a low usage voice and data bundle (ITU),2003,29.78
+ZAF,South Africa,ITU_DH_TRAF_FIX_BB,Fixed-broadband internet traffic,2003,0.33
+ZAF,South Africa,ITU_DH_TRAF_MOB_BB,Mobile-broadband internet traffic within the country,2003,0.0389774
+ZAF,South Africa,ITU_DH_ACT_MOB_PER_100,Active mobile-broadband subscriptions per 100 inhabitants (ITU),2004,29.2596
+ZAF,South Africa,ITU_DH_COMP_FIB,Competition in Fiber (ITU),2004,2.0
+ZAF,South Africa,ITU_DH_COMP_INT_GTW,Competition in International Gateways (ITU),2004,1.0
+ZAF,South Africa,ITU_DH_COMP_INT_SER,Competition in Internet Services (ITU),2004,2.0
+ZAF,South Africa,ITU_DH_COMP_MOB_BB,Competition in Mobile Broadband (ITU),2004,2.0
+ZAF,South Africa,ITU_DH_FIX_BR_SUB_PER_100,Fixed-broadband subscriptions per 100 inhabitants (ITU),2004,0.12247
+ZAF,South Africa,ITU_DH_FIX_SUB_PER_100,Fixed-telephone subscriptions per 100 inhabitants (ITU),2004,10.0079
+ZAF,South Africa,ITU_DH_FIX_TEL_OR_MOB,Percentage of households with fixed-line telephone or mobile (ITU),2004,17.9255
+ZAF,South Africa,ITU_DH_HH_COMP,Percentage of households with a computer (ITU),2004,12.0
+ZAF,South Africa,ITU_DH_HH_INT,Percentage of households with internet access at home (ITU),2004,2.5
+ZAF,South Africa,ITU_DH_HH_RAD,Percentage of households with a radio (ITU),2004,79.0848
+ZAF,South Africa,ITU_DH_HH_TV,Percentage of households with TV (ITU),2004,60.5034
+ZAF,South Africa,ITU_DH_INT_BAND_PER_CAP,International bandwidth usage - per capita,2004,17.9929
+ZAF,South Africa,ITU_DH_INT_BAND_PER_INT_USR,International bandwidth usage - per internet user,2004,213.563
+ZAF,South Africa,ITU_DH_INT_CONN_BAND,International bandwidth usage,2004,881.5
+ZAF,South Africa,ITU_DH_INT_CONN_BAND_CAP,Lit/equipped international bandwidth capacity,2004,934578.0
+ZAF,South Africa,ITU_DH_INT_USER_PT,Percentage of individuals using the internet (ITU),2004,8.42512
+ZAF,South Africa,ITU_DH_MOB_SUB_PER_100,Mobile-cellular subscriptions per 100 inhabitants (ITU),2004,42.536
+ZAF,South Africa,ITU_DH_POP_COV_2G,"Population coverage, at least 2G",2004,96.0
+ZAF,South Africa,ITU_DH_POP_COV_3G,"Population coverage, at least 3G",2004,84.25
+ZAF,South Africa,ITU_DH_POP_COV_4G,"Population coverage, at least 4G",2004,5.0
+ZAF,South Africa,ITU_DH_POP_COV_5G,"Population coverage, at least 5G",2004,0.96
+ZAF,South Africa,ITU_DH_PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),2004,48.19
+ZAF,South Africa,ITU_DH_PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),2004,48.19
+ZAF,South Africa,ITU_DH_PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),2004,48.19
+ZAF,South Africa,ITU_DH_PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),2004,46.57
+ZAF,South Africa,ITU_DH_PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),2004,46.57
+ZAF,South Africa,ITU_DH_PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),2004,46.57
+ZAF,South Africa,ITU_DH_PRI_HU_VD,Price of a high usage voice and data bundle (ITU),2004,69.36
+ZAF,South Africa,ITU_DH_PRI_HU_VD,Price of a high usage voice and data bundle (ITU),2004,69.36
+ZAF,South Africa,ITU_DH_PRI_HU_VD,Price of a high usage voice and data bundle (ITU),2004,69.36
+ZAF,South Africa,ITU_DH_PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),2004,42.36
+ZAF,South Africa,ITU_DH_PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),2004,42.36
+ZAF,South Africa,ITU_DH_PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),2004,42.36
+ZAF,South Africa,ITU_DH_PRI_LU_VD,Price of a low usage voice and data bundle (ITU),2004,29.78
+ZAF,South Africa,ITU_DH_PRI_LU_VD,Price of a low usage voice and data bundle (ITU),2004,29.78
+ZAF,South Africa,ITU_DH_PRI_LU_VD,Price of a low usage voice and data bundle (ITU),2004,29.78
+ZAF,South Africa,ITU_DH_TRAF_FIX_BB,Fixed-broadband internet traffic,2004,0.33
+ZAF,South Africa,ITU_DH_TRAF_MOB_BB,Mobile-broadband internet traffic within the country,2004,0.0389774
+ZAF,South Africa,ITU_DH_ACT_MOB_PER_100,Active mobile-broadband subscriptions per 100 inhabitants (ITU),2005,29.2596
+ZAF,South Africa,ITU_DH_COMP_FIB,Competition in Fiber (ITU),2005,2.0
+ZAF,South Africa,ITU_DH_COMP_INT_GTW,Competition in International Gateways (ITU),2005,1.0
+ZAF,South Africa,ITU_DH_COMP_INT_SER,Competition in Internet Services (ITU),2005,2.0
+ZAF,South Africa,ITU_DH_COMP_MOB_BB,Competition in Mobile Broadband (ITU),2005,2.0
+ZAF,South Africa,ITU_DH_FIX_BR_SUB_PER_100,Fixed-broadband subscriptions per 100 inhabitants (ITU),2005,0.333986
+ZAF,South Africa,ITU_DH_FIX_SUB_PER_100,Fixed-telephone subscriptions per 100 inhabitants (ITU),2005,9.8929
+ZAF,South Africa,ITU_DH_FIX_TEL_OR_MOB,Percentage of households with fixed-line telephone or mobile (ITU),2005,17.9255
+ZAF,South Africa,ITU_DH_HH_COMP,Percentage of households with a computer (ITU),2005,13.0
+ZAF,South Africa,ITU_DH_HH_INT,Percentage of households with internet access at home (ITU),2005,3.0
+ZAF,South Africa,ITU_DH_HH_RAD,Percentage of households with a radio (ITU),2005,79.0848
+ZAF,South Africa,ITU_DH_HH_TV,Percentage of households with TV (ITU),2005,60.5034
+ZAF,South Africa,ITU_DH_INT_BAND_PER_CAP,International bandwidth usage - per capita,2005,17.8117
+ZAF,South Africa,ITU_DH_INT_BAND_PER_INT_USR,International bandwidth usage - per internet user,2005,237.852
+ZAF,South Africa,ITU_DH_INT_CONN_BAND,International bandwidth usage,2005,881.5
+ZAF,South Africa,ITU_DH_INT_CONN_BAND_CAP,Lit/equipped international bandwidth capacity,2005,934578.0
+ZAF,South Africa,ITU_DH_INT_USER_PT,Percentage of individuals using the internet (ITU),2005,7.48854
+ZAF,South Africa,ITU_DH_MOB_SUB_PER_100,Mobile-cellular subscriptions per 100 inhabitants (ITU),2005,68.6198
+ZAF,South Africa,ITU_DH_POP_COV_2G,"Population coverage, at least 2G",2005,96.0
+ZAF,South Africa,ITU_DH_POP_COV_3G,"Population coverage, at least 3G",2005,84.25
+ZAF,South Africa,ITU_DH_POP_COV_4G,"Population coverage, at least 4G",2005,5.0
+ZAF,South Africa,ITU_DH_POP_COV_5G,"Population coverage, at least 5G",2005,0.96
+ZAF,South Africa,ITU_DH_PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),2005,48.19
+ZAF,South Africa,ITU_DH_PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),2005,48.19
+ZAF,South Africa,ITU_DH_PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),2005,48.19
+ZAF,South Africa,ITU_DH_PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),2005,46.57
+ZAF,South Africa,ITU_DH_PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),2005,46.57
+ZAF,South Africa,ITU_DH_PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),2005,46.57
+ZAF,South Africa,ITU_DH_PRI_HU_VD,Price of a high usage voice and data bundle (ITU),2005,69.36
+ZAF,South Africa,ITU_DH_PRI_HU_VD,Price of a high usage voice and data bundle (ITU),2005,69.36
+ZAF,South Africa,ITU_DH_PRI_HU_VD,Price of a high usage voice and data bundle (ITU),2005,69.36
+ZAF,South Africa,ITU_DH_PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),2005,42.36
+ZAF,South Africa,ITU_DH_PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),2005,42.36
+ZAF,South Africa,ITU_DH_PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),2005,42.36
+ZAF,South Africa,ITU_DH_PRI_LU_VD,Price of a low usage voice and data bundle (ITU),2005,29.78
+ZAF,South Africa,ITU_DH_PRI_LU_VD,Price of a low usage voice and data bundle (ITU),2005,29.78
+ZAF,South Africa,ITU_DH_PRI_LU_VD,Price of a low usage voice and data bundle (ITU),2005,29.78
+ZAF,South Africa,ITU_DH_TRAF_FIX_BB,Fixed-broadband internet traffic,2005,0.33
+ZAF,South Africa,ITU_DH_TRAF_MOB_BB,Mobile-broadband internet traffic within the country,2005,0.0389774
+ZAF,South Africa,ITU_DH_ACT_MOB_PER_100,Active mobile-broadband subscriptions per 100 inhabitants (ITU),2006,29.2596
+ZAF,South Africa,ITU_DH_COMP_FIB,Competition in Fiber (ITU),2006,2.0
+ZAF,South Africa,ITU_DH_COMP_INT_GTW,Competition in International Gateways (ITU),2006,1.0
+ZAF,South Africa,ITU_DH_COMP_INT_SER,Competition in Internet Services (ITU),2006,2.0
+ZAF,South Africa,ITU_DH_COMP_MOB_BB,Competition in Mobile Broadband (ITU),2006,2.0
+ZAF,South Africa,ITU_DH_FIX_BR_SUB_PER_100,Fixed-broadband subscriptions per 100 inhabitants (ITU),2006,0.670247
+ZAF,South Africa,ITU_DH_FIX_SUB_PER_100,Fixed-telephone subscriptions per 100 inhabitants (ITU),2006,9.77834
+ZAF,South Africa,ITU_DH_FIX_TEL_OR_MOB,Percentage of households with fixed-line telephone or mobile (ITU),2006,16.9453
+ZAF,South Africa,ITU_DH_HH_COMP,Percentage of households with a computer (ITU),2006,13.89
+ZAF,South Africa,ITU_DH_HH_INT,Percentage of households with internet access at home (ITU),2006,3.6
+ZAF,South Africa,ITU_DH_HH_RAD,Percentage of households with a radio (ITU),2006,78.682
+ZAF,South Africa,ITU_DH_HH_TV,Percentage of households with TV (ITU),2006,64.6499
+ZAF,South Africa,ITU_DH_INT_BAND_PER_CAP,International bandwidth usage - per capita,2006,49.7017
+ZAF,South Africa,ITU_DH_INT_BAND_PER_INT_USR,International bandwidth usage - per internet user,2006,653.356
+ZAF,South Africa,ITU_DH_INT_CONN_BAND,International bandwidth usage,2006,2485.0
+ZAF,South Africa,ITU_DH_INT_CONN_BAND_CAP,Lit/equipped international bandwidth capacity,2006,934578.0
+ZAF,South Africa,ITU_DH_INT_USER_PT,Percentage of individuals using the internet (ITU),2006,7.60714
+ZAF,South Africa,ITU_DH_MOB_SUB_PER_100,Mobile-cellular subscriptions per 100 inhabitants (ITU),2006,79.3267
+ZAF,South Africa,ITU_DH_POP_COV_2G,"Population coverage, at least 2G",2006,97.1
+ZAF,South Africa,ITU_DH_POP_COV_3G,"Population coverage, at least 3G",2006,84.25
+ZAF,South Africa,ITU_DH_POP_COV_4G,"Population coverage, at least 4G",2006,5.0
+ZAF,South Africa,ITU_DH_POP_COV_5G,"Population coverage, at least 5G",2006,0.96
+ZAF,South Africa,ITU_DH_PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),2006,48.19
+ZAF,South Africa,ITU_DH_PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),2006,48.19
+ZAF,South Africa,ITU_DH_PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),2006,48.19
+ZAF,South Africa,ITU_DH_PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),2006,46.57
+ZAF,South Africa,ITU_DH_PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),2006,46.57
+ZAF,South Africa,ITU_DH_PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),2006,46.57
+ZAF,South Africa,ITU_DH_PRI_HU_VD,Price of a high usage voice and data bundle (ITU),2006,69.36
+ZAF,South Africa,ITU_DH_PRI_HU_VD,Price of a high usage voice and data bundle (ITU),2006,69.36
+ZAF,South Africa,ITU_DH_PRI_HU_VD,Price of a high usage voice and data bundle (ITU),2006,69.36
+ZAF,South Africa,ITU_DH_PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),2006,42.36
+ZAF,South Africa,ITU_DH_PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),2006,42.36
+ZAF,South Africa,ITU_DH_PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),2006,42.36
+ZAF,South Africa,ITU_DH_PRI_LU_VD,Price of a low usage voice and data bundle (ITU),2006,29.78
+ZAF,South Africa,ITU_DH_PRI_LU_VD,Price of a low usage voice and data bundle (ITU),2006,29.78
+ZAF,South Africa,ITU_DH_PRI_LU_VD,Price of a low usage voice and data bundle (ITU),2006,29.78
+ZAF,South Africa,ITU_DH_TRAF_FIX_BB,Fixed-broadband internet traffic,2006,0.33
+ZAF,South Africa,ITU_DH_TRAF_MOB_BB,Mobile-broadband internet traffic within the country,2006,0.0389774
+ZAF,South Africa,ITU_DH_ACT_MOB_PER_100,Active mobile-broadband subscriptions per 100 inhabitants (ITU),2007,29.2596
+ZAF,South Africa,ITU_DH_COMP_FIB,Competition in Fiber (ITU),2007,2.0
+ZAF,South Africa,ITU_DH_COMP_INT_GTW,Competition in International Gateways (ITU),2007,1.0
+ZAF,South Africa,ITU_DH_COMP_INT_SER,Competition in Internet Services (ITU),2007,2.0
+ZAF,South Africa,ITU_DH_COMP_MOB_BB,Competition in Mobile Broadband (ITU),2007,2.0
+ZAF,South Africa,ITU_DH_FIX_BR_SUB_PER_100,Fixed-broadband subscriptions per 100 inhabitants (ITU),2007,0.748091
+ZAF,South Africa,ITU_DH_FIX_SUB_PER_100,Fixed-telephone subscriptions per 100 inhabitants (ITU),2007,9.66186
+ZAF,South Africa,ITU_DH_FIX_TEL_OR_MOB,Percentage of households with fixed-line telephone or mobile (ITU),2007,16.9453
+ZAF,South Africa,ITU_DH_HH_COMP,Percentage of households with a computer (ITU),2007,14.78
+ZAF,South Africa,ITU_DH_HH_INT,Percentage of households with internet access at home (ITU),2007,4.76
+ZAF,South Africa,ITU_DH_HH_RAD,Percentage of households with a radio (ITU),2007,78.682
+ZAF,South Africa,ITU_DH_HH_TV,Percentage of households with TV (ITU),2007,64.6499
+ZAF,South Africa,ITU_DH_INT_BAND_PER_CAP,International bandwidth usage - per capita,2007,66.8928
+ZAF,South Africa,ITU_DH_INT_BAND_PER_INT_USR,International bandwidth usage - per internet user,2007,829.383
+ZAF,South Africa,ITU_DH_INT_CONN_BAND,International bandwidth usage,2007,3380.0
+ZAF,South Africa,ITU_DH_INT_CONN_BAND_CAP,Lit/equipped international bandwidth capacity,2007,934578.0
+ZAF,South Africa,ITU_DH_INT_USER_PT,Percentage of individuals using the internet (ITU),2007,8.06538
+ZAF,South Africa,ITU_DH_MOB_SUB_PER_100,Mobile-cellular subscriptions per 100 inhabitants (ITU),2007,83.715
+ZAF,South Africa,ITU_DH_POP_COV_2G,"Population coverage, at least 2G",2007,99.79
+ZAF,South Africa,ITU_DH_POP_COV_3G,"Population coverage, at least 3G",2007,84.25
+ZAF,South Africa,ITU_DH_POP_COV_4G,"Population coverage, at least 4G",2007,5.0
+ZAF,South Africa,ITU_DH_POP_COV_5G,"Population coverage, at least 5G",2007,0.96
+ZAF,South Africa,ITU_DH_PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),2007,48.19
+ZAF,South Africa,ITU_DH_PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),2007,48.19
+ZAF,South Africa,ITU_DH_PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),2007,48.19
+ZAF,South Africa,ITU_DH_PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),2007,46.57
+ZAF,South Africa,ITU_DH_PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),2007,46.57
+ZAF,South Africa,ITU_DH_PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),2007,46.57
+ZAF,South Africa,ITU_DH_PRI_HU_VD,Price of a high usage voice and data bundle (ITU),2007,69.36
+ZAF,South Africa,ITU_DH_PRI_HU_VD,Price of a high usage voice and data bundle (ITU),2007,69.36
+ZAF,South Africa,ITU_DH_PRI_HU_VD,Price of a high usage voice and data bundle (ITU),2007,69.36
+ZAF,South Africa,ITU_DH_PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),2007,42.36
+ZAF,South Africa,ITU_DH_PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),2007,42.36
+ZAF,South Africa,ITU_DH_PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),2007,42.36
+ZAF,South Africa,ITU_DH_PRI_LU_VD,Price of a low usage voice and data bundle (ITU),2007,29.78
+ZAF,South Africa,ITU_DH_PRI_LU_VD,Price of a low usage voice and data bundle (ITU),2007,29.78
+ZAF,South Africa,ITU_DH_PRI_LU_VD,Price of a low usage voice and data bundle (ITU),2007,29.78
+ZAF,South Africa,ITU_DH_TRAF_FIX_BB,Fixed-broadband internet traffic,2007,0.33
+ZAF,South Africa,ITU_DH_TRAF_MOB_BB,Mobile-broadband internet traffic within the country,2007,0.0389774
+ZAF,South Africa,ITU_DH_ACT_MOB_PER_100,Active mobile-broadband subscriptions per 100 inhabitants (ITU),2008,29.2596
+ZAF,South Africa,ITU_DH_COMP_FIB,Competition in Fiber (ITU),2008,2.0
+ZAF,South Africa,ITU_DH_COMP_INT_GTW,Competition in International Gateways (ITU),2008,1.0
+ZAF,South Africa,ITU_DH_COMP_INT_SER,Competition in Internet Services (ITU),2008,2.0
+ZAF,South Africa,ITU_DH_COMP_MOB_BB,Competition in Mobile Broadband (ITU),2008,2.0
+ZAF,South Africa,ITU_DH_FIX_BR_SUB_PER_100,Fixed-broadband subscriptions per 100 inhabitants (ITU),2008,0.833421
+ZAF,South Africa,ITU_DH_FIX_SUB_PER_100,Fixed-telephone subscriptions per 100 inhabitants (ITU),2008,9.53739
+ZAF,South Africa,ITU_DH_FIX_TEL_OR_MOB,Percentage of households with fixed-line telephone or mobile (ITU),2008,16.3087
+ZAF,South Africa,ITU_DH_HH_COMP,Percentage of households with a computer (ITU),2008,15.9127
+ZAF,South Africa,ITU_DH_HH_INT,Percentage of households with internet access at home (ITU),2008,6.5
+ZAF,South Africa,ITU_DH_HH_RAD,Percentage of households with a radio (ITU),2008,77.7755
+ZAF,South Africa,ITU_DH_HH_TV,Percentage of households with TV (ITU),2008,69.245
+ZAF,South Africa,ITU_DH_INT_BAND_PER_CAP,International bandwidth usage - per capita,2008,29345.8
+ZAF,South Africa,ITU_DH_INT_BAND_PER_INT_USR,International bandwidth usage - per internet user,2008,348112.0
+ZAF,South Africa,ITU_DH_INT_CONN_BAND,International bandwidth usage,2008,1500000.0
+ZAF,South Africa,ITU_DH_INT_CONN_BAND_CAP,Lit/equipped international bandwidth capacity,2008,934578.0
+ZAF,South Africa,ITU_DH_INT_USER_PT,Percentage of individuals using the internet (ITU),2008,8.43
+ZAF,South Africa,ITU_DH_MOB_SUB_PER_100,Mobile-cellular subscriptions per 100 inhabitants (ITU),2008,88.0375
+ZAF,South Africa,ITU_DH_POP_COV_2G,"Population coverage, at least 2G",2008,99.79
+ZAF,South Africa,ITU_DH_POP_COV_3G,"Population coverage, at least 3G",2008,84.25
+ZAF,South Africa,ITU_DH_POP_COV_4G,"Population coverage, at least 4G",2008,5.0
+ZAF,South Africa,ITU_DH_POP_COV_5G,"Population coverage, at least 5G",2008,0.96
+ZAF,South Africa,ITU_DH_PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),2008,48.19
+ZAF,South Africa,ITU_DH_PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),2008,48.19
+ZAF,South Africa,ITU_DH_PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),2008,48.19
+ZAF,South Africa,ITU_DH_PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),2008,46.57
+ZAF,South Africa,ITU_DH_PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),2008,4.79
+ZAF,South Africa,ITU_DH_PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),2008,24.09
+ZAF,South Africa,ITU_DH_PRI_HU_VD,Price of a high usage voice and data bundle (ITU),2008,69.36
+ZAF,South Africa,ITU_DH_PRI_HU_VD,Price of a high usage voice and data bundle (ITU),2008,69.36
+ZAF,South Africa,ITU_DH_PRI_HU_VD,Price of a high usage voice and data bundle (ITU),2008,69.36
+ZAF,South Africa,ITU_DH_PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),2008,42.36
+ZAF,South Africa,ITU_DH_PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),2008,4.36
+ZAF,South Africa,ITU_DH_PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),2008,21.91
+ZAF,South Africa,ITU_DH_PRI_LU_VD,Price of a low usage voice and data bundle (ITU),2008,29.78
+ZAF,South Africa,ITU_DH_PRI_LU_VD,Price of a low usage voice and data bundle (ITU),2008,29.78
+ZAF,South Africa,ITU_DH_PRI_LU_VD,Price of a low usage voice and data bundle (ITU),2008,29.78
+ZAF,South Africa,ITU_DH_TRAF_FIX_BB,Fixed-broadband internet traffic,2008,0.33
+ZAF,South Africa,ITU_DH_TRAF_MOB_BB,Mobile-broadband internet traffic within the country,2008,0.0389774
+ZAF,South Africa,ITU_DH_ACT_MOB_PER_100,Active mobile-broadband subscriptions per 100 inhabitants (ITU),2009,29.2596
+ZAF,South Africa,ITU_DH_COMP_FIB,Competition in Fiber (ITU),2009,2.0
+ZAF,South Africa,ITU_DH_COMP_INT_GTW,Competition in International Gateways (ITU),2009,1.0
+ZAF,South Africa,ITU_DH_COMP_INT_SER,Competition in Internet Services (ITU),2009,2.0
+ZAF,South Africa,ITU_DH_COMP_MOB_BB,Competition in Mobile Broadband (ITU),2009,2.0
+ZAF,South Africa,ITU_DH_FIX_BR_SUB_PER_100,Fixed-broadband subscriptions per 100 inhabitants (ITU),2009,0.929855
+ZAF,South Africa,ITU_DH_FIX_SUB_PER_100,Fixed-telephone subscriptions per 100 inhabitants (ITU),2009,9.41067
+ZAF,South Africa,ITU_DH_FIX_TEL_OR_MOB,Percentage of households with fixed-line telephone or mobile (ITU),2009,15.8652
+ZAF,South Africa,ITU_DH_HH_COMP,Percentage of households with a computer (ITU),2009,17.13
+ZAF,South Africa,ITU_DH_HH_INT,Percentage of households with internet access at home (ITU),2009,8.83
+ZAF,South Africa,ITU_DH_HH_RAD,Percentage of households with a radio (ITU),2009,77.7755
+ZAF,South Africa,ITU_DH_HH_TV,Percentage of households with TV (ITU),2009,69.245
+ZAF,South Africa,ITU_DH_INT_BAND_PER_CAP,International bandwidth usage - per capita,2009,38663.4
+ZAF,South Africa,ITU_DH_INT_BAND_PER_INT_USR,International bandwidth usage - per internet user,2009,386634.0
+ZAF,South Africa,ITU_DH_INT_CONN_BAND,International bandwidth usage,2009,2000000.0
+ZAF,South Africa,ITU_DH_INT_CONN_BAND_CAP,Lit/equipped international bandwidth capacity,2009,934578.0
+ZAF,South Africa,ITU_DH_INT_USER_PT,Percentage of individuals using the internet (ITU),2009,10.0
+ZAF,South Africa,ITU_DH_MOB_SUB_PER_100,Mobile-cellular subscriptions per 100 inhabitants (ITU),2009,89.7687
+ZAF,South Africa,ITU_DH_POP_COV_2G,"Population coverage, at least 2G",2009,99.79
+ZAF,South Africa,ITU_DH_POP_COV_3G,"Population coverage, at least 3G",2009,84.25
+ZAF,South Africa,ITU_DH_POP_COV_4G,"Population coverage, at least 4G",2009,5.0
+ZAF,South Africa,ITU_DH_POP_COV_5G,"Population coverage, at least 5G",2009,0.96
+ZAF,South Africa,ITU_DH_PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),2009,48.19
+ZAF,South Africa,ITU_DH_PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),2009,48.19
+ZAF,South Africa,ITU_DH_PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),2009,48.19
+ZAF,South Africa,ITU_DH_PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),2009,43.32
+ZAF,South Africa,ITU_DH_PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),2009,5.47
+ZAF,South Africa,ITU_DH_PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),2009,26.89
+ZAF,South Africa,ITU_DH_PRI_HU_VD,Price of a high usage voice and data bundle (ITU),2009,69.36
+ZAF,South Africa,ITU_DH_PRI_HU_VD,Price of a high usage voice and data bundle (ITU),2009,69.36
+ZAF,South Africa,ITU_DH_PRI_HU_VD,Price of a high usage voice and data bundle (ITU),2009,69.36
+ZAF,South Africa,ITU_DH_PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),2009,39.39
+ZAF,South Africa,ITU_DH_PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),2009,4.34
+ZAF,South Africa,ITU_DH_PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),2009,21.35
+ZAF,South Africa,ITU_DH_PRI_LU_VD,Price of a low usage voice and data bundle (ITU),2009,29.78
+ZAF,South Africa,ITU_DH_PRI_LU_VD,Price of a low usage voice and data bundle (ITU),2009,29.78
+ZAF,South Africa,ITU_DH_PRI_LU_VD,Price of a low usage voice and data bundle (ITU),2009,29.78
+ZAF,South Africa,ITU_DH_TRAF_FIX_BB,Fixed-broadband internet traffic,2009,0.33
+ZAF,South Africa,ITU_DH_TRAF_MOB_BB,Mobile-broadband internet traffic within the country,2009,0.0389774
+ZAF,South Africa,ITU_DH_ACT_MOB_PER_100,Active mobile-broadband subscriptions per 100 inhabitants (ITU),2010,29.2596
+ZAF,South Africa,ITU_DH_COMP_FIB,Competition in Fiber (ITU),2010,2.0
+ZAF,South Africa,ITU_DH_COMP_INT_GTW,Competition in International Gateways (ITU),2010,1.0
+ZAF,South Africa,ITU_DH_COMP_INT_SER,Competition in Internet Services (ITU),2010,2.0
+ZAF,South Africa,ITU_DH_COMP_MOB_BB,Competition in Mobile Broadband (ITU),2010,2.0
+ZAF,South Africa,ITU_DH_FIX_BR_SUB_PER_100,Fixed-broadband subscriptions per 100 inhabitants (ITU),2010,1.41945
+ZAF,South Africa,ITU_DH_FIX_SUB_PER_100,Fixed-telephone subscriptions per 100 inhabitants (ITU),2010,9.28663
+ZAF,South Africa,ITU_DH_FIX_TEL_OR_MOB,Percentage of households with fixed-line telephone or mobile (ITU),2010,15.7519
+ZAF,South Africa,ITU_DH_HH_COMP,Percentage of households with a computer (ITU),2010,18.33
+ZAF,South Africa,ITU_DH_HH_INT,Percentage of households with internet access at home (ITU),2010,10.1
+ZAF,South Africa,ITU_DH_HH_RAD,Percentage of households with a radio (ITU),2010,77.1942
+ZAF,South Africa,ITU_DH_HH_TV,Percentage of households with TV (ITU),2010,74.6784
+ZAF,South Africa,ITU_DH_INT_BAND_PER_CAP,International bandwidth usage - per capita,2010,47760.9
+ZAF,South Africa,ITU_DH_INT_BAND_PER_INT_USR,International bandwidth usage - per internet user,2010,199004.0
+ZAF,South Africa,ITU_DH_INT_CONN_BAND,International bandwidth usage,2010,2500000.0
+ZAF,South Africa,ITU_DH_INT_CONN_BAND_CAP,Lit/equipped international bandwidth capacity,2010,934578.0
+ZAF,South Africa,ITU_DH_INT_USER_PT,Percentage of individuals using the internet (ITU),2010,24.0
+ZAF,South Africa,ITU_DH_MOB_SUB_PER_100,Mobile-cellular subscriptions per 100 inhabitants (ITU),2010,96.2325
+ZAF,South Africa,ITU_DH_POP_COV_2G,"Population coverage, at least 2G",2010,99.79
+ZAF,South Africa,ITU_DH_POP_COV_3G,"Population coverage, at least 3G",2010,84.25
+ZAF,South Africa,ITU_DH_POP_COV_4G,"Population coverage, at least 4G",2010,5.0
+ZAF,South Africa,ITU_DH_POP_COV_5G,"Population coverage, at least 5G",2010,0.96
+ZAF,South Africa,ITU_DH_PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),2010,48.19
+ZAF,South Africa,ITU_DH_PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),2010,48.19
+ZAF,South Africa,ITU_DH_PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),2010,48.19
+ZAF,South Africa,ITU_DH_PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),2010,42.23
+ZAF,South Africa,ITU_DH_PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),2010,5.27
+ZAF,South Africa,ITU_DH_PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),2010,27.41
+ZAF,South Africa,ITU_DH_PRI_HU_VD,Price of a high usage voice and data bundle (ITU),2010,69.36
+ZAF,South Africa,ITU_DH_PRI_HU_VD,Price of a high usage voice and data bundle (ITU),2010,69.36
+ZAF,South Africa,ITU_DH_PRI_HU_VD,Price of a high usage voice and data bundle (ITU),2010,69.36
+ZAF,South Africa,ITU_DH_PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),2010,35.83
+ZAF,South Africa,ITU_DH_PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),2010,4.47
+ZAF,South Africa,ITU_DH_PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),2010,20.4
+ZAF,South Africa,ITU_DH_PRI_LU_VD,Price of a low usage voice and data bundle (ITU),2010,29.78
+ZAF,South Africa,ITU_DH_PRI_LU_VD,Price of a low usage voice and data bundle (ITU),2010,29.78
+ZAF,South Africa,ITU_DH_PRI_LU_VD,Price of a low usage voice and data bundle (ITU),2010,29.78
+ZAF,South Africa,ITU_DH_TRAF_FIX_BB,Fixed-broadband internet traffic,2010,0.33
+ZAF,South Africa,ITU_DH_TRAF_MOB_BB,Mobile-broadband internet traffic within the country,2010,0.0389774
+ZAF,South Africa,ITU_DH_ACT_MOB_PER_100,Active mobile-broadband subscriptions per 100 inhabitants (ITU),2011,29.2596
+ZAF,South Africa,ITU_DH_COMP_FIB,Competition in Fiber (ITU),2011,2.0
+ZAF,South Africa,ITU_DH_COMP_INT_GTW,Competition in International Gateways (ITU),2011,1.0
+ZAF,South Africa,ITU_DH_COMP_INT_SER,Competition in Internet Services (ITU),2011,2.0
+ZAF,South Africa,ITU_DH_COMP_MOB_BB,Competition in Mobile Broadband (ITU),2011,2.0
+ZAF,South Africa,ITU_DH_FIX_BR_SUB_PER_100,Fixed-broadband subscriptions per 100 inhabitants (ITU),2011,1.71148
+ZAF,South Africa,ITU_DH_FIX_SUB_PER_100,Fixed-telephone subscriptions per 100 inhabitants (ITU),2011,9.15932
+ZAF,South Africa,ITU_DH_FIX_TEL_OR_MOB,Percentage of households with fixed-line telephone or mobile (ITU),2011,15.7519
+ZAF,South Africa,ITU_DH_HH_COMP,Percentage of households with a computer (ITU),2011,21.4512
+ZAF,South Africa,ITU_DH_HH_INT,Percentage of households with internet access at home (ITU),2011,23.94
+ZAF,South Africa,ITU_DH_HH_RAD,Percentage of households with a radio (ITU),2011,77.1942
+ZAF,South Africa,ITU_DH_HH_TV,Percentage of households with TV (ITU),2011,74.6784
+ZAF,South Africa,ITU_DH_INT_BAND_PER_CAP,International bandwidth usage - per capita,2011,52835.0
+ZAF,South Africa,ITU_DH_INT_BAND_PER_INT_USR,International bandwidth usage - per internet user,2011,155534.0
+ZAF,South Africa,ITU_DH_INT_CONN_BAND,International bandwidth usage,2011,2800000.0
+ZAF,South Africa,ITU_DH_INT_CONN_BAND_CAP,Lit/equipped international bandwidth capacity,2011,934578.0
+ZAF,South Africa,ITU_DH_INT_USER_PT,Percentage of individuals using the internet (ITU),2011,33.97
+ZAF,South Africa,ITU_DH_MOB_SUB_PER_100,Mobile-cellular subscriptions per 100 inhabitants (ITU),2011,120.766
+ZAF,South Africa,ITU_DH_POP_COV_2G,"Population coverage, at least 2G",2011,99.79
+ZAF,South Africa,ITU_DH_POP_COV_3G,"Population coverage, at least 3G",2011,84.25
+ZAF,South Africa,ITU_DH_POP_COV_4G,"Population coverage, at least 4G",2011,5.0
+ZAF,South Africa,ITU_DH_POP_COV_5G,"Population coverage, at least 5G",2011,0.96
+ZAF,South Africa,ITU_DH_PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),2011,48.19
+ZAF,South Africa,ITU_DH_PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),2011,48.19
+ZAF,South Africa,ITU_DH_PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),2011,48.19
+ZAF,South Africa,ITU_DH_PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),2011,39.27
+ZAF,South Africa,ITU_DH_PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),2011,4.67
+ZAF,South Africa,ITU_DH_PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),2011,27.41
+ZAF,South Africa,ITU_DH_PRI_HU_VD,Price of a high usage voice and data bundle (ITU),2011,69.36
+ZAF,South Africa,ITU_DH_PRI_HU_VD,Price of a high usage voice and data bundle (ITU),2011,69.36
+ZAF,South Africa,ITU_DH_PRI_HU_VD,Price of a high usage voice and data bundle (ITU),2011,69.36
+ZAF,South Africa,ITU_DH_PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),2011,31.98
+ZAF,South Africa,ITU_DH_PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),2011,3.8
+ZAF,South Africa,ITU_DH_PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),2011,23.26
+ZAF,South Africa,ITU_DH_PRI_LU_VD,Price of a low usage voice and data bundle (ITU),2011,29.78
+ZAF,South Africa,ITU_DH_PRI_LU_VD,Price of a low usage voice and data bundle (ITU),2011,29.78
+ZAF,South Africa,ITU_DH_PRI_LU_VD,Price of a low usage voice and data bundle (ITU),2011,29.78
+ZAF,South Africa,ITU_DH_TRAF_FIX_BB,Fixed-broadband internet traffic,2011,0.33
+ZAF,South Africa,ITU_DH_TRAF_MOB_BB,Mobile-broadband internet traffic within the country,2011,0.0389774
+ZAF,South Africa,ITU_DH_ACT_MOB_PER_100,Active mobile-broadband subscriptions per 100 inhabitants (ITU),2012,29.2596
+ZAF,South Africa,ITU_DH_COMP_FIB,Competition in Fiber (ITU),2012,2.0
+ZAF,South Africa,ITU_DH_COMP_INT_GTW,Competition in International Gateways (ITU),2012,1.0
+ZAF,South Africa,ITU_DH_COMP_INT_SER,Competition in Internet Services (ITU),2012,2.0
+ZAF,South Africa,ITU_DH_COMP_MOB_BB,Competition in Mobile Broadband (ITU),2012,2.0
+ZAF,South Africa,ITU_DH_FIX_BR_SUB_PER_100,Fixed-broadband subscriptions per 100 inhabitants (ITU),2012,2.05866
+ZAF,South Africa,ITU_DH_FIX_SUB_PER_100,Fixed-telephone subscriptions per 100 inhabitants (ITU),2012,9.01221
+ZAF,South Africa,ITU_DH_FIX_TEL_OR_MOB,Percentage of households with fixed-line telephone or mobile (ITU),2012,15.7519
+ZAF,South Africa,ITU_DH_HH_COMP,Percentage of households with a computer (ITU),2012,23.55
+ZAF,South Africa,ITU_DH_HH_INT,Percentage of households with internet access at home (ITU),2012,33.92
+ZAF,South Africa,ITU_DH_HH_RAD,Percentage of households with a radio (ITU),2012,77.1942
+ZAF,South Africa,ITU_DH_HH_TV,Percentage of households with TV (ITU),2012,74.6784
+ZAF,South Africa,ITU_DH_INT_BAND_PER_CAP,International bandwidth usage - per capita,2012,59498.8
+ZAF,South Africa,ITU_DH_INT_BAND_PER_INT_USR,International bandwidth usage - per internet user,2012,145119.0
+ZAF,South Africa,ITU_DH_INT_CONN_BAND,International bandwidth usage,2012,3200000.0
+ZAF,South Africa,ITU_DH_INT_CONN_BAND_CAP,Lit/equipped international bandwidth capacity,2012,934578.0
+ZAF,South Africa,ITU_DH_INT_USER_PT,Percentage of individuals using the internet (ITU),2012,41.0
+ZAF,South Africa,ITU_DH_MOB_SUB_PER_100,Mobile-cellular subscriptions per 100 inhabitants (ITU),2012,127.168
+ZAF,South Africa,ITU_DH_POP_COV_2G,"Population coverage, at least 2G",2012,99.79
+ZAF,South Africa,ITU_DH_POP_COV_3G,"Population coverage, at least 3G",2012,84.25
+ZAF,South Africa,ITU_DH_POP_COV_4G,"Population coverage, at least 4G",2012,5.0
+ZAF,South Africa,ITU_DH_POP_COV_5G,"Population coverage, at least 5G",2012,0.96
+ZAF,South Africa,ITU_DH_PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),2012,48.19
+ZAF,South Africa,ITU_DH_PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),2012,48.19
+ZAF,South Africa,ITU_DH_PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),2012,48.19
+ZAF,South Africa,ITU_DH_PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),2012,40.2
+ZAF,South Africa,ITU_DH_PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),2012,3.9
+ZAF,South Africa,ITU_DH_PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),2012,24.85
+ZAF,South Africa,ITU_DH_PRI_HU_VD,Price of a high usage voice and data bundle (ITU),2012,69.36
+ZAF,South Africa,ITU_DH_PRI_HU_VD,Price of a high usage voice and data bundle (ITU),2012,69.36
+ZAF,South Africa,ITU_DH_PRI_HU_VD,Price of a high usage voice and data bundle (ITU),2012,69.36
+ZAF,South Africa,ITU_DH_PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),2012,46.64
+ZAF,South Africa,ITU_DH_PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),2012,4.53
+ZAF,South Africa,ITU_DH_PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),2012,22.32
+ZAF,South Africa,ITU_DH_PRI_LU_VD,Price of a low usage voice and data bundle (ITU),2012,29.78
+ZAF,South Africa,ITU_DH_PRI_LU_VD,Price of a low usage voice and data bundle (ITU),2012,29.78
+ZAF,South Africa,ITU_DH_PRI_LU_VD,Price of a low usage voice and data bundle (ITU),2012,29.78
+ZAF,South Africa,ITU_DH_TRAF_FIX_BB,Fixed-broadband internet traffic,2012,0.33
+ZAF,South Africa,ITU_DH_TRAF_MOB_BB,Mobile-broadband internet traffic within the country,2012,0.0389774
+ZAF,South Africa,ITU_DH_ACT_MOB_PER_100,Active mobile-broadband subscriptions per 100 inhabitants (ITU),2013,29.2596
+ZAF,South Africa,ITU_DH_COMP_FIB,Competition in Fiber (ITU),2013,2.0
+ZAF,South Africa,ITU_DH_COMP_INT_GTW,Competition in International Gateways (ITU),2013,1.0
+ZAF,South Africa,ITU_DH_COMP_INT_SER,Competition in Internet Services (ITU),2013,2.0
+ZAF,South Africa,ITU_DH_COMP_MOB_BB,Competition in Mobile Broadband (ITU),2013,2.0
+ZAF,South Africa,ITU_DH_FIX_BR_SUB_PER_100,Fixed-broadband subscriptions per 100 inhabitants (ITU),2013,2.954
+ZAF,South Africa,ITU_DH_FIX_SUB_PER_100,Fixed-telephone subscriptions per 100 inhabitants (ITU),2013,7.08791
+ZAF,South Africa,ITU_DH_FIX_TEL_OR_MOB,Percentage of households with fixed-line telephone or mobile (ITU),2013,12.7724
+ZAF,South Africa,ITU_DH_HH_COMP,Percentage of households with a computer (ITU),2013,19.1417
+ZAF,South Africa,ITU_DH_HH_INT,Percentage of households with internet access at home (ITU),2013,34.35
+ZAF,South Africa,ITU_DH_HH_RAD,Percentage of households with a radio (ITU),2013,62.1096
+ZAF,South Africa,ITU_DH_HH_TV,Percentage of households with TV (ITU),2013,79.2295
+ZAF,South Africa,ITU_DH_INT_BAND_PER_CAP,International bandwidth usage - per capita,2013,64010.2
+ZAF,South Africa,ITU_DH_INT_BAND_PER_INT_USR,International bandwidth usage - per internet user,2013,137656.0
+ZAF,South Africa,ITU_DH_INT_CONN_BAND,International bandwidth usage,2013,3500000.0
+ZAF,South Africa,ITU_DH_INT_CONN_BAND_CAP,Lit/equipped international bandwidth capacity,2013,934578.0
+ZAF,South Africa,ITU_DH_INT_USER_PT,Percentage of individuals using the internet (ITU),2013,46.5
+ZAF,South Africa,ITU_DH_MOB_SUB_PER_100,Mobile-cellular subscriptions per 100 inhabitants (ITU),2013,140.576
+ZAF,South Africa,ITU_DH_POP_COV_2G,"Population coverage, at least 2G",2013,99.79
+ZAF,South Africa,ITU_DH_POP_COV_3G,"Population coverage, at least 3G",2013,90.4
+ZAF,South Africa,ITU_DH_POP_COV_4G,"Population coverage, at least 4G",2013,14.23
+ZAF,South Africa,ITU_DH_POP_COV_5G,"Population coverage, at least 5G",2013,0.96
+ZAF,South Africa,ITU_DH_PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),2013,48.19
+ZAF,South Africa,ITU_DH_PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),2013,4.18
+ZAF,South Africa,ITU_DH_PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),2013,25.79
+ZAF,South Africa,ITU_DH_PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),2013,31.94
+ZAF,South Africa,ITU_DH_PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),2013,2.76755
+ZAF,South Africa,ITU_DH_PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),2013,17.0896
+ZAF,South Africa,ITU_DH_PRI_HU_VD,Price of a high usage voice and data bundle (ITU),2013,69.36
+ZAF,South Africa,ITU_DH_PRI_HU_VD,Price of a high usage voice and data bundle (ITU),2013,69.36
+ZAF,South Africa,ITU_DH_PRI_HU_VD,Price of a high usage voice and data bundle (ITU),2013,69.36
+ZAF,South Africa,ITU_DH_PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),2013,38.11
+ZAF,South Africa,ITU_DH_PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),2013,3.30298
+ZAF,South Africa,ITU_DH_PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),2013,20.3959
+ZAF,South Africa,ITU_DH_PRI_LU_VD,Price of a low usage voice and data bundle (ITU),2013,29.78
+ZAF,South Africa,ITU_DH_PRI_LU_VD,Price of a low usage voice and data bundle (ITU),2013,29.78
+ZAF,South Africa,ITU_DH_PRI_LU_VD,Price of a low usage voice and data bundle (ITU),2013,29.78
+ZAF,South Africa,ITU_DH_TRAF_FIX_BB,Fixed-broadband internet traffic,2013,0.33
+ZAF,South Africa,ITU_DH_TRAF_MOB_BB,Mobile-broadband internet traffic within the country,2013,0.0389774
+ZAF,South Africa,ITU_DH_ACT_MOB_PER_100,Active mobile-broadband subscriptions per 100 inhabitants (ITU),2014,29.2596
+ZAF,South Africa,ITU_DH_COMP_FIB,Competition in Fiber (ITU),2014,2.0
+ZAF,South Africa,ITU_DH_COMP_INT_GTW,Competition in International Gateways (ITU),2014,1.0
+ZAF,South Africa,ITU_DH_COMP_INT_SER,Competition in Internet Services (ITU),2014,2.0
+ZAF,South Africa,ITU_DH_COMP_MOB_BB,Competition in Mobile Broadband (ITU),2014,2.0
+ZAF,South Africa,ITU_DH_FIX_BR_SUB_PER_100,Fixed-broadband subscriptions per 100 inhabitants (ITU),2014,3.06919
+ZAF,South Africa,ITU_DH_FIX_SUB_PER_100,Fixed-telephone subscriptions per 100 inhabitants (ITU),2014,6.56135
+ZAF,South Africa,ITU_DH_FIX_TEL_OR_MOB,Percentage of households with fixed-line telephone or mobile (ITU),2014,12.4808
+ZAF,South Africa,ITU_DH_HH_COMP,Percentage of households with a computer (ITU),2014,20.7719
+ZAF,South Africa,ITU_DH_HH_INT,Percentage of households with internet access at home (ITU),2014,44.2236
+ZAF,South Africa,ITU_DH_HH_RAD,Percentage of households with a radio (ITU),2014,56.735
+ZAF,South Africa,ITU_DH_HH_TV,Percentage of households with TV (ITU),2014,80.9329
+ZAF,South Africa,ITU_DH_INT_BAND_PER_CAP,International bandwidth usage - per capita,2014,7554.66
+ZAF,South Africa,ITU_DH_INT_BAND_PER_INT_USR,International bandwidth usage - per internet user,2014,15417.7
+ZAF,South Africa,ITU_DH_INT_CONN_BAND,International bandwidth usage,2014,420000.0
+ZAF,South Africa,ITU_DH_INT_CONN_BAND_CAP,Lit/equipped international bandwidth capacity,2014,934578.0
+ZAF,South Africa,ITU_DH_INT_USER_PT,Percentage of individuals using the internet (ITU),2014,49.0
+ZAF,South Africa,ITU_DH_MOB_SUB_PER_100,Mobile-cellular subscriptions per 100 inhabitants (ITU),2014,142.604
+ZAF,South Africa,ITU_DH_POP_COV_2G,"Population coverage, at least 2G",2014,99.9
+ZAF,South Africa,ITU_DH_POP_COV_3G,"Population coverage, at least 3G",2014,95.0
+ZAF,South Africa,ITU_DH_POP_COV_4G,"Population coverage, at least 4G",2014,34.0
+ZAF,South Africa,ITU_DH_POP_COV_5G,"Population coverage, at least 5G",2014,0.96
+ZAF,South Africa,ITU_DH_PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),2014,13.84
+ZAF,South Africa,ITU_DH_PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),2014,1.28
+ZAF,South Africa,ITU_DH_PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),2014,7.28
+ZAF,South Africa,ITU_DH_PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),2014,28.92
+ZAF,South Africa,ITU_DH_PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),2014,2.683
+ZAF,South Africa,ITU_DH_PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),2014,15.2
+ZAF,South Africa,ITU_DH_PRI_HU_VD,Price of a high usage voice and data bundle (ITU),2014,69.36
+ZAF,South Africa,ITU_DH_PRI_HU_VD,Price of a high usage voice and data bundle (ITU),2014,69.36
+ZAF,South Africa,ITU_DH_PRI_HU_VD,Price of a high usage voice and data bundle (ITU),2014,69.36
+ZAF,South Africa,ITU_DH_PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),2014,19.5
+ZAF,South Africa,ITU_DH_PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),2014,1.8
+ZAF,South Africa,ITU_DH_PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),2014,10.2
+ZAF,South Africa,ITU_DH_PRI_LU_VD,Price of a low usage voice and data bundle (ITU),2014,29.78
+ZAF,South Africa,ITU_DH_PRI_LU_VD,Price of a low usage voice and data bundle (ITU),2014,29.78
+ZAF,South Africa,ITU_DH_PRI_LU_VD,Price of a low usage voice and data bundle (ITU),2014,29.78
+ZAF,South Africa,ITU_DH_TRAF_FIX_BB,Fixed-broadband internet traffic,2014,0.33
+ZAF,South Africa,ITU_DH_TRAF_MOB_BB,Mobile-broadband internet traffic within the country,2014,0.0389774
+ZAF,South Africa,ITU_DH_ACT_MOB_PER_100,Active mobile-broadband subscriptions per 100 inhabitants (ITU),2015,49.532
+ZAF,South Africa,ITU_DH_COMP_FIB,Competition in Fiber (ITU),2015,2.0
+ZAF,South Africa,ITU_DH_COMP_INT_GTW,Competition in International Gateways (ITU),2015,0.0
+ZAF,South Africa,ITU_DH_COMP_INT_SER,Competition in Internet Services (ITU),2015,2.0
+ZAF,South Africa,ITU_DH_COMP_MOB_BB,Competition in Mobile Broadband (ITU),2015,2.0
+ZAF,South Africa,ITU_DH_FIX_BR_SUB_PER_100,Fixed-broadband subscriptions per 100 inhabitants (ITU),2015,2.48459
+ZAF,South Africa,ITU_DH_FIX_SUB_PER_100,Fixed-telephone subscriptions per 100 inhabitants (ITU),2015,7.28279
+ZAF,South Africa,ITU_DH_FIX_TEL_OR_MOB,Percentage of households with fixed-line telephone or mobile (ITU),2015,10.8432
+ZAF,South Africa,ITU_DH_HH_COMP,Percentage of households with a computer (ITU),2015,20.1261
+ZAF,South Africa,ITU_DH_HH_INT,Percentage of households with internet access at home (ITU),2015,49.9582
+ZAF,South Africa,ITU_DH_HH_RAD,Percentage of households with a radio (ITU),2015,54.9875
+ZAF,South Africa,ITU_DH_HH_TV,Percentage of households with TV (ITU),2015,80.3829
+ZAF,South Africa,ITU_DH_INT_BAND_PER_CAP,International bandwidth usage - per capita,2015,7756.92
+ZAF,South Africa,ITU_DH_INT_BAND_PER_INT_USR,International bandwidth usage - per internet user,2015,14940.4
+ZAF,South Africa,ITU_DH_INT_CONN_BAND,International bandwidth usage,2015,440000.0
+ZAF,South Africa,ITU_DH_INT_CONN_BAND_CAP,Lit/equipped international bandwidth capacity,2015,934578.0
+ZAF,South Africa,ITU_DH_INT_USER_PT,Percentage of individuals using the internet (ITU),2015,51.9191
+ZAF,South Africa,ITU_DH_MOB_SUB_PER_100,Mobile-cellular subscriptions per 100 inhabitants (ITU),2015,155.138
+ZAF,South Africa,ITU_DH_POP_COV_2G,"Population coverage, at least 2G",2015,99.9
+ZAF,South Africa,ITU_DH_POP_COV_3G,"Population coverage, at least 3G",2015,98.0
+ZAF,South Africa,ITU_DH_POP_COV_4G,"Population coverage, at least 4G",2015,54.0
+ZAF,South Africa,ITU_DH_POP_COV_5G,"Population coverage, at least 5G",2015,0.96
+ZAF,South Africa,ITU_DH_PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),2015,14.9
+ZAF,South Africa,ITU_DH_PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),2015,1.18
+ZAF,South Africa,ITU_DH_PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),2015,6.66
+ZAF,South Africa,ITU_DH_PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),2015,28.92
+ZAF,South Africa,ITU_DH_PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),2015,2.28214
+ZAF,South Africa,ITU_DH_PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),2015,12.93
+ZAF,South Africa,ITU_DH_PRI_HU_VD,Price of a high usage voice and data bundle (ITU),2015,69.36
+ZAF,South Africa,ITU_DH_PRI_HU_VD,Price of a high usage voice and data bundle (ITU),2015,69.36
+ZAF,South Africa,ITU_DH_PRI_HU_VD,Price of a high usage voice and data bundle (ITU),2015,69.36
+ZAF,South Africa,ITU_DH_PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),2015,15.8
+ZAF,South Africa,ITU_DH_PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),2015,1.2
+ZAF,South Africa,ITU_DH_PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),2015,7.1
+ZAF,South Africa,ITU_DH_PRI_LU_VD,Price of a low usage voice and data bundle (ITU),2015,29.78
+ZAF,South Africa,ITU_DH_PRI_LU_VD,Price of a low usage voice and data bundle (ITU),2015,29.78
+ZAF,South Africa,ITU_DH_PRI_LU_VD,Price of a low usage voice and data bundle (ITU),2015,29.78
+ZAF,South Africa,ITU_DH_TRAF_FIX_BB,Fixed-broadband internet traffic,2015,0.33
+ZAF,South Africa,ITU_DH_TRAF_MOB_BB,Mobile-broadband internet traffic within the country,2015,0.1
+ZAF,South Africa,ITU_DH_ACT_MOB_PER_100,Active mobile-broadband subscriptions per 100 inhabitants (ITU),2016,54.1564
+ZAF,South Africa,ITU_DH_COMP_FIB,Competition in Fiber (ITU),2016,2.0
+ZAF,South Africa,ITU_DH_COMP_INT_GTW,Competition in International Gateways (ITU),2016,0.0
+ZAF,South Africa,ITU_DH_COMP_INT_SER,Competition in Internet Services (ITU),2016,2.0
+ZAF,South Africa,ITU_DH_COMP_MOB_BB,Competition in Mobile Broadband (ITU),2016,2.0
+ZAF,South Africa,ITU_DH_FIX_BR_SUB_PER_100,Fixed-broadband subscriptions per 100 inhabitants (ITU),2016,2.00974
+ZAF,South Africa,ITU_DH_FIX_SUB_PER_100,Fixed-telephone subscriptions per 100 inhabitants (ITU),2016,7.89886
+ZAF,South Africa,ITU_DH_FIX_TEL_OR_MOB,Percentage of households with fixed-line telephone or mobile (ITU),2016,9.84634
+ZAF,South Africa,ITU_DH_HH_COMP,Percentage of households with a computer (ITU),2016,21.4871
+ZAF,South Africa,ITU_DH_HH_INT,Percentage of households with internet access at home (ITU),2016,59.767
+ZAF,South Africa,ITU_DH_HH_RAD,Percentage of households with a radio (ITU),2016,58.5866
+ZAF,South Africa,ITU_DH_HH_TV,Percentage of households with TV (ITU),2016,85.4816
+ZAF,South Africa,ITU_DH_INT_BAND_PER_CAP,International bandwidth usage - per capita,2016,6593.82
+ZAF,South Africa,ITU_DH_INT_BAND_PER_INT_USR,International bandwidth usage - per internet user,2016,12210.8
+ZAF,South Africa,ITU_DH_INT_CONN_BAND,International bandwidth usage,2016,377559.0
+ZAF,South Africa,ITU_DH_INT_CONN_BAND_CAP,Lit/equipped international bandwidth capacity,2016,934578.0
+ZAF,South Africa,ITU_DH_INT_USER_PT,Percentage of individuals using the internet (ITU),2016,54.0
+ZAF,South Africa,ITU_DH_MOB_SUB_PER_100,Mobile-cellular subscriptions per 100 inhabitants (ITU),2016,143.929
+ZAF,South Africa,ITU_DH_POP_COV_2G,"Population coverage, at least 2G",2016,99.6
+ZAF,South Africa,ITU_DH_POP_COV_3G,"Population coverage, at least 3G",2016,98.0
+ZAF,South Africa,ITU_DH_POP_COV_4G,"Population coverage, at least 4G",2016,73.0
+ZAF,South Africa,ITU_DH_POP_COV_5G,"Population coverage, at least 5G",2016,0.96
+ZAF,South Africa,ITU_DH_PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),2016,12.5818
+ZAF,South Africa,ITU_DH_PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),2016,1.0063
+ZAF,South Africa,ITU_DH_PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),2016,5.09857
+ZAF,South Africa,ITU_DH_PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),2016,45.13
+ZAF,South Africa,ITU_DH_PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),2016,3.61
+ZAF,South Africa,ITU_DH_PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),2016,18.29
+ZAF,South Africa,ITU_DH_PRI_HU_VD,Price of a high usage voice and data bundle (ITU),2016,69.36
+ZAF,South Africa,ITU_DH_PRI_HU_VD,Price of a high usage voice and data bundle (ITU),2016,69.36
+ZAF,South Africa,ITU_DH_PRI_HU_VD,Price of a high usage voice and data bundle (ITU),2016,69.36
+ZAF,South Africa,ITU_DH_PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),2016,18.6
+ZAF,South Africa,ITU_DH_PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),2016,1.5
+ZAF,South Africa,ITU_DH_PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),2016,7.5
+ZAF,South Africa,ITU_DH_PRI_LU_VD,Price of a low usage voice and data bundle (ITU),2016,29.78
+ZAF,South Africa,ITU_DH_PRI_LU_VD,Price of a low usage voice and data bundle (ITU),2016,29.78
+ZAF,South Africa,ITU_DH_PRI_LU_VD,Price of a low usage voice and data bundle (ITU),2016,29.78
+ZAF,South Africa,ITU_DH_TRAF_FIX_BB,Fixed-broadband internet traffic,2016,0.28
+ZAF,South Africa,ITU_DH_TRAF_MOB_BB,Mobile-broadband internet traffic within the country,2016,0.179458
+ZAF,South Africa,ITU_DH_ACT_MOB_PER_100,Active mobile-broadband subscriptions per 100 inhabitants (ITU),2017,60.5407
+ZAF,South Africa,ITU_DH_COMP_FIB,Competition in Fiber (ITU),2017,2.0
+ZAF,South Africa,ITU_DH_COMP_INT_GTW,Competition in International Gateways (ITU),2017,0.0
+ZAF,South Africa,ITU_DH_COMP_INT_SER,Competition in Internet Services (ITU),2017,2.0
+ZAF,South Africa,ITU_DH_COMP_MOB_BB,Competition in Mobile Broadband (ITU),2017,2.0
+ZAF,South Africa,ITU_DH_FIX_BR_SUB_PER_100,Fixed-broadband subscriptions per 100 inhabitants (ITU),2017,1.94879
+ZAF,South Africa,ITU_DH_FIX_SUB_PER_100,Fixed-telephone subscriptions per 100 inhabitants (ITU),2017,8.34573
+ZAF,South Africa,ITU_DH_FIX_TEL_OR_MOB,Percentage of households with fixed-line telephone or mobile (ITU),2017,8.12358
+ZAF,South Africa,ITU_DH_HH_COMP,Percentage of households with a computer (ITU),2017,21.8522
+ZAF,South Africa,ITU_DH_HH_INT,Percentage of households with internet access at home (ITU),2017,61.8331
+ZAF,South Africa,ITU_DH_HH_RAD,Percentage of households with a radio (ITU),2017,51.3184
+ZAF,South Africa,ITU_DH_HH_TV,Percentage of households with TV (ITU),2017,81.5351
+ZAF,South Africa,ITU_DH_INT_BAND_PER_CAP,International bandwidth usage - per capita,2017,10590.8
+ZAF,South Africa,ITU_DH_INT_BAND_PER_INT_USR,International bandwidth usage - per internet user,2017,18855.7
+ZAF,South Africa,ITU_DH_INT_CONN_BAND,International bandwidth usage,2017,610400.0
+ZAF,South Africa,ITU_DH_INT_CONN_BAND_CAP,Lit/equipped international bandwidth capacity,2017,789099.0
+ZAF,South Africa,ITU_DH_INT_USER_PT,Percentage of individuals using the internet (ITU),2017,56.1674
+ZAF,South Africa,ITU_DH_MOB_SUB_PER_100,Mobile-cellular subscriptions per 100 inhabitants (ITU),2017,153.548
+ZAF,South Africa,ITU_DH_POP_COV_2G,"Population coverage, at least 2G",2017,99.97
+ZAF,South Africa,ITU_DH_POP_COV_3G,"Population coverage, at least 3G",2017,98.61
+ZAF,South Africa,ITU_DH_POP_COV_4G,"Population coverage, at least 4G",2017,77.62
+ZAF,South Africa,ITU_DH_POP_COV_5G,"Population coverage, at least 5G",2017,0.96
+ZAF,South Africa,ITU_DH_PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),2017,11.9429
+ZAF,South Africa,ITU_DH_PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),2017,1.24305
+ZAF,South Africa,ITU_DH_PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),2017,5.62481
+ZAF,South Africa,ITU_DH_PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),2017,26.2743
+ZAF,South Africa,ITU_DH_PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),2017,2.73471
+ZAF,South Africa,ITU_DH_PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),2017,12.3746
+ZAF,South Africa,ITU_DH_PRI_HU_VD,Price of a high usage voice and data bundle (ITU),2017,69.36
+ZAF,South Africa,ITU_DH_PRI_HU_VD,Price of a high usage voice and data bundle (ITU),2017,69.36
+ZAF,South Africa,ITU_DH_PRI_HU_VD,Price of a high usage voice and data bundle (ITU),2017,69.36
+ZAF,South Africa,ITU_DH_PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),2017,17.6818
+ZAF,South Africa,ITU_DH_PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),2017,1.84038
+ZAF,South Africa,ITU_DH_PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),2017,8.32772
+ZAF,South Africa,ITU_DH_PRI_LU_VD,Price of a low usage voice and data bundle (ITU),2017,29.78
+ZAF,South Africa,ITU_DH_PRI_LU_VD,Price of a low usage voice and data bundle (ITU),2017,29.78
+ZAF,South Africa,ITU_DH_PRI_LU_VD,Price of a low usage voice and data bundle (ITU),2017,29.78
+ZAF,South Africa,ITU_DH_TRAF_FIX_BB,Fixed-broadband internet traffic,2017,0.32
+ZAF,South Africa,ITU_DH_TRAF_MOB_BB,Mobile-broadband internet traffic within the country,2017,0.371058
+ZAF,South Africa,ITU_DH_ACT_MOB_PER_100,Active mobile-broadband subscriptions per 100 inhabitants (ITU),2018,64.6106
+ZAF,South Africa,ITU_DH_COMP_FIB,Competition in Fiber (ITU),2018,2.0
+ZAF,South Africa,ITU_DH_COMP_INT_GTW,Competition in International Gateways (ITU),2018,0.0
+ZAF,South Africa,ITU_DH_COMP_INT_SER,Competition in Internet Services (ITU),2018,2.0
+ZAF,South Africa,ITU_DH_COMP_MOB_BB,Competition in Mobile Broadband (ITU),2018,2.0
+ZAF,South Africa,ITU_DH_FIX_BR_SUB_PER_100,Fixed-broadband subscriptions per 100 inhabitants (ITU),2018,1.88868
+ZAF,South Africa,ITU_DH_FIX_SUB_PER_100,Fixed-telephone subscriptions per 100 inhabitants (ITU),2018,5.70768
+ZAF,South Africa,ITU_DH_FIX_TEL_OR_MOB,Percentage of households with fixed-line telephone or mobile (ITU),2018,8.12358
+ZAF,South Africa,ITU_DH_HH_COMP,Percentage of households with a computer (ITU),2018,21.2542
+ZAF,South Africa,ITU_DH_HH_INT,Percentage of households with internet access at home (ITU),2018,64.6971
+ZAF,South Africa,ITU_DH_HH_RAD,Percentage of households with a radio (ITU),2018,51.3184
+ZAF,South Africa,ITU_DH_HH_TV,Percentage of households with TV (ITU),2018,81.5351
+ZAF,South Africa,ITU_DH_INT_BAND_PER_CAP,International bandwidth usage - per capita,2018,14750.4
+ZAF,South Africa,ITU_DH_INT_BAND_PER_INT_USR,International bandwidth usage - per internet user,2018,23638.4
+ZAF,South Africa,ITU_DH_INT_CONN_BAND,International bandwidth usage,2018,864564.0
+ZAF,South Africa,ITU_DH_INT_CONN_BAND_CAP,Lit/equipped international bandwidth capacity,2018,2000190.0
+ZAF,South Africa,ITU_DH_INT_USER_PT,Percentage of individuals using the internet (ITU),2018,62.4
+ZAF,South Africa,ITU_DH_MOB_SUB_PER_100,Mobile-cellular subscriptions per 100 inhabitants (ITU),2018,157.692
+ZAF,South Africa,ITU_DH_POP_COV_2G,"Population coverage, at least 2G",2018,99.97
+ZAF,South Africa,ITU_DH_POP_COV_3G,"Population coverage, at least 3G",2018,99.51
+ZAF,South Africa,ITU_DH_POP_COV_4G,"Population coverage, at least 4G",2018,90.32
+ZAF,South Africa,ITU_DH_POP_COV_5G,"Population coverage, at least 5G",2018,0.96
+ZAF,South Africa,ITU_DH_PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),2018,37.74
+ZAF,South Africa,ITU_DH_PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),2018,3.95
+ZAF,South Africa,ITU_DH_PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),2018,18.82
+ZAF,South Africa,ITU_DH_PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),2018,62.54
+ZAF,South Africa,ITU_DH_PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),2018,6.54
+ZAF,South Africa,ITU_DH_PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),2018,31.18
+ZAF,South Africa,ITU_DH_PRI_HU_VD,Price of a high usage voice and data bundle (ITU),2018,69.36
+ZAF,South Africa,ITU_DH_PRI_HU_VD,Price of a high usage voice and data bundle (ITU),2018,7.25
+ZAF,South Africa,ITU_DH_PRI_HU_VD,Price of a high usage voice and data bundle (ITU),2018,34.58
+ZAF,South Africa,ITU_DH_PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),2018,14.63
+ZAF,South Africa,ITU_DH_PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),2018,1.53
+ZAF,South Africa,ITU_DH_PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),2018,7.29
+ZAF,South Africa,ITU_DH_PRI_LU_VD,Price of a low usage voice and data bundle (ITU),2018,29.78
+ZAF,South Africa,ITU_DH_PRI_LU_VD,Price of a low usage voice and data bundle (ITU),2018,3.12
+ZAF,South Africa,ITU_DH_PRI_LU_VD,Price of a low usage voice and data bundle (ITU),2018,14.85
+ZAF,South Africa,ITU_DH_TRAF_FIX_BB,Fixed-broadband internet traffic,2018,0.647521
+ZAF,South Africa,ITU_DH_TRAF_MOB_BB,Mobile-broadband internet traffic within the country,2018,0.857343
+ZAF,South Africa,ITU_DH_ACT_MOB_PER_100,Active mobile-broadband subscriptions per 100 inhabitants (ITU),2019,60.0794
+ZAF,South Africa,ITU_DH_COMP_FIB,Competition in Fiber (ITU),2019,2.0
+ZAF,South Africa,ITU_DH_COMP_INT_GTW,Competition in International Gateways (ITU),2019,0.0
+ZAF,South Africa,ITU_DH_COMP_INT_SER,Competition in Internet Services (ITU),2019,2.0
+ZAF,South Africa,ITU_DH_COMP_MOB_BB,Competition in Mobile Broadband (ITU),2019,2.0
+ZAF,South Africa,ITU_DH_FIX_BR_SUB_PER_100,Fixed-broadband subscriptions per 100 inhabitants (ITU),2019,2.09834
+ZAF,South Africa,ITU_DH_FIX_SUB_PER_100,Fixed-telephone subscriptions per 100 inhabitants (ITU),2019,3.39789
+ZAF,South Africa,ITU_DH_FIX_TEL_OR_MOB,Percentage of households with fixed-line telephone or mobile (ITU),2019,8.12358
+ZAF,South Africa,ITU_DH_HH_COMP,Percentage of households with a computer (ITU),2019,22.7137
+ZAF,South Africa,ITU_DH_HH_INT,Percentage of households with internet access at home (ITU),2019,63.251
+ZAF,South Africa,ITU_DH_HH_RAD,Percentage of households with a radio (ITU),2019,51.3184
+ZAF,South Africa,ITU_DH_HH_TV,Percentage of households with TV (ITU),2019,81.5351
+ZAF,South Africa,ITU_DH_INT_BAND_PER_CAP,International bandwidth usage - per capita,2019,19780.9
+ZAF,South Africa,ITU_DH_INT_BAND_PER_INT_USR,International bandwidth usage - per internet user,2019,28381.3
+ZAF,South Africa,ITU_DH_INT_CONN_BAND,International bandwidth usage,2019,1178700.0
+ZAF,South Africa,ITU_DH_INT_CONN_BAND_CAP,Lit/equipped international bandwidth capacity,2019,2000190.0
+ZAF,South Africa,ITU_DH_INT_USER_PT,Percentage of individuals using the internet (ITU),2019,69.6969
+ZAF,South Africa,ITU_DH_MOB_SUB_PER_100,Mobile-cellular subscriptions per 100 inhabitants (ITU),2019,162.739
+ZAF,South Africa,ITU_DH_POP_COV_2G,"Population coverage, at least 2G",2019,99.97
+ZAF,South Africa,ITU_DH_POP_COV_3G,"Population coverage, at least 3G",2019,99.66
+ZAF,South Africa,ITU_DH_POP_COV_4G,"Population coverage, at least 4G",2019,94.41
+ZAF,South Africa,ITU_DH_POP_COV_5G,"Population coverage, at least 5G",2019,0.96
+ZAF,South Africa,ITU_DH_PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),2019,37.74
+ZAF,South Africa,ITU_DH_PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),2019,3.95
+ZAF,South Africa,ITU_DH_PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),2019,18.82
+ZAF,South Africa,ITU_DH_PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),2019,62.54
+ZAF,South Africa,ITU_DH_PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),2019,6.54
+ZAF,South Africa,ITU_DH_PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),2019,31.18
+ZAF,South Africa,ITU_DH_PRI_HU_VD,Price of a high usage voice and data bundle (ITU),2019,69.78
+ZAF,South Africa,ITU_DH_PRI_HU_VD,Price of a high usage voice and data bundle (ITU),2019,7.3
+ZAF,South Africa,ITU_DH_PRI_HU_VD,Price of a high usage voice and data bundle (ITU),2019,34.79
+ZAF,South Africa,ITU_DH_PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),2019,14.84
+ZAF,South Africa,ITU_DH_PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),2019,1.55
+ZAF,South Africa,ITU_DH_PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),2019,7.4
+ZAF,South Africa,ITU_DH_PRI_LU_VD,Price of a low usage voice and data bundle (ITU),2019,30.0
+ZAF,South Africa,ITU_DH_PRI_LU_VD,Price of a low usage voice and data bundle (ITU),2019,3.14
+ZAF,South Africa,ITU_DH_PRI_LU_VD,Price of a low usage voice and data bundle (ITU),2019,14.95
+ZAF,South Africa,ITU_DH_TRAF_FIX_BB,Fixed-broadband internet traffic,2019,1.43859
+ZAF,South Africa,ITU_DH_TRAF_MOB_BB,Mobile-broadband internet traffic within the country,2019,0.934602
+ZAF,South Africa,ITU_DH_ACT_MOB_PER_100,Active mobile-broadband subscriptions per 100 inhabitants (ITU),2020,66.7815
+ZAF,South Africa,ITU_DH_COMP_FIB,Competition in Fiber (ITU),2020,2.0
+ZAF,South Africa,ITU_DH_COMP_INT_GTW,Competition in International Gateways (ITU),2020,0.0
+ZAF,South Africa,ITU_DH_COMP_INT_SER,Competition in Internet Services (ITU),2020,2.0
+ZAF,South Africa,ITU_DH_COMP_MOB_BB,Competition in Mobile Broadband (ITU),2020,2.0
+ZAF,South Africa,ITU_DH_FIX_BR_SUB_PER_100,Fixed-broadband subscriptions per 100 inhabitants (ITU),2020,2.15159
+ZAF,South Africa,ITU_DH_FIX_SUB_PER_100,Fixed-telephone subscriptions per 100 inhabitants (ITU),2020,3.46552
+ZAF,South Africa,ITU_DH_FIX_TEL_OR_MOB,Percentage of households with fixed-line telephone or mobile (ITU),2020,8.12358
+ZAF,South Africa,ITU_DH_HH_COMP,Percentage of households with a computer (ITU),2020,26.7499
+ZAF,South Africa,ITU_DH_HH_INT,Percentage of households with internet access at home (ITU),2020,74.1365
+ZAF,South Africa,ITU_DH_HH_RAD,Percentage of households with a radio (ITU),2020,51.3184
+ZAF,South Africa,ITU_DH_HH_TV,Percentage of households with TV (ITU),2020,81.5351
+ZAF,South Africa,ITU_DH_INT_BAND_PER_CAP,International bandwidth usage - per capita,2020,18757.8
+ZAF,South Africa,ITU_DH_INT_BAND_PER_INT_USR,International bandwidth usage - per internet user,2020,26011.7
+ZAF,South Africa,ITU_DH_INT_CONN_BAND,International bandwidth usage,2020,1136020.0
+ZAF,South Africa,ITU_DH_INT_CONN_BAND_CAP,Lit/equipped international bandwidth capacity,2020,3938200.0
+ZAF,South Africa,ITU_DH_INT_USER_PT,Percentage of individuals using the internet (ITU),2020,72.1128
+ZAF,South Africa,ITU_DH_MOB_SUB_PER_100,Mobile-cellular subscriptions per 100 inhabitants (ITU),2020,158.447
+ZAF,South Africa,ITU_DH_POP_COV_2G,"Population coverage, at least 2G",2020,99.99
+ZAF,South Africa,ITU_DH_POP_COV_3G,"Population coverage, at least 3G",2020,99.8
+ZAF,South Africa,ITU_DH_POP_COV_4G,"Population coverage, at least 4G",2020,96.45
+ZAF,South Africa,ITU_DH_POP_COV_5G,"Population coverage, at least 5G",2020,0.96
+ZAF,South Africa,ITU_DH_PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),2020,26.05
+ZAF,South Africa,ITU_DH_PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),2020,2.53
+ZAF,South Africa,ITU_DH_PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),2020,10.21
+ZAF,South Africa,ITU_DH_PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),2020,48.15
+ZAF,South Africa,ITU_DH_PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),2020,4.69
+ZAF,South Africa,ITU_DH_PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),2020,18.88
+ZAF,South Africa,ITU_DH_PRI_HU_VD,Price of a high usage voice and data bundle (ITU),2020,56.99
+ZAF,South Africa,ITU_DH_PRI_HU_VD,Price of a high usage voice and data bundle (ITU),2020,5.55
+ZAF,South Africa,ITU_DH_PRI_HU_VD,Price of a high usage voice and data bundle (ITU),2020,22.34
+ZAF,South Africa,ITU_DH_PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),2020,14.33
+ZAF,South Africa,ITU_DH_PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),2020,1.39
+ZAF,South Africa,ITU_DH_PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),2020,5.62
+ZAF,South Africa,ITU_DH_PRI_LU_VD,Price of a low usage voice and data bundle (ITU),2020,25.89
+ZAF,South Africa,ITU_DH_PRI_LU_VD,Price of a low usage voice and data bundle (ITU),2020,2.52
+ZAF,South Africa,ITU_DH_PRI_LU_VD,Price of a low usage voice and data bundle (ITU),2020,10.15
+ZAF,South Africa,ITU_DH_TRAF_FIX_BB,Fixed-broadband internet traffic,2020,3.34167
+ZAF,South Africa,ITU_DH_TRAF_MOB_BB,Mobile-broadband internet traffic within the country,2020,1.60441
+ZAF,South Africa,ITU_DH_ACT_MOB_PER_100,Active mobile-broadband subscriptions per 100 inhabitants (ITU),2021,57.867
+ZAF,South Africa,ITU_DH_COMP_FIB,Competition in Fiber (ITU),2021,2.0
+ZAF,South Africa,ITU_DH_COMP_INT_GTW,Competition in International Gateways (ITU),2021,0.0
+ZAF,South Africa,ITU_DH_COMP_INT_SER,Competition in Internet Services (ITU),2021,2.0
+ZAF,South Africa,ITU_DH_COMP_MOB_BB,Competition in Mobile Broadband (ITU),2021,2.0
+ZAF,South Africa,ITU_DH_FIX_BR_SUB_PER_100,Fixed-broadband subscriptions per 100 inhabitants (ITU),2021,2.75541
+ZAF,South Africa,ITU_DH_FIX_SUB_PER_100,Fixed-telephone subscriptions per 100 inhabitants (ITU),2021,2.39371
+ZAF,South Africa,ITU_DH_FIX_TEL_OR_MOB,Percentage of households with fixed-line telephone or mobile (ITU),2021,6.48118
+ZAF,South Africa,ITU_DH_HH_COMP,Percentage of households with a computer (ITU),2021,27.237
+ZAF,South Africa,ITU_DH_HH_INT,Percentage of households with internet access at home (ITU),2021,77.4708
+ZAF,South Africa,ITU_DH_HH_RAD,Percentage of households with a radio (ITU),2021,51.3184
+ZAF,South Africa,ITU_DH_HH_TV,Percentage of households with TV (ITU),2021,87.6067
+ZAF,South Africa,ITU_DH_INT_BAND_PER_CAP,International bandwidth usage - per capita,2021,15402.9
+ZAF,South Africa,ITU_DH_INT_BAND_PER_INT_USR,International bandwidth usage - per internet user,2021,20545.8
+ZAF,South Africa,ITU_DH_INT_CONN_BAND,International bandwidth usage,2021,947320.0
+ZAF,South Africa,ITU_DH_INT_CONN_BAND_CAP,Lit/equipped international bandwidth capacity,2021,2552650.0
+ZAF,South Africa,ITU_DH_INT_USER_PT,Percentage of individuals using the internet (ITU),2021,74.9686
+ZAF,South Africa,ITU_DH_MOB_SUB_PER_100,Mobile-cellular subscriptions per 100 inhabitants (ITU),2021,163.128
+ZAF,South Africa,ITU_DH_POP_COV_2G,"Population coverage, at least 2G",2021,99.97
+ZAF,South Africa,ITU_DH_POP_COV_3G,"Population coverage, at least 3G",2021,99.88
+ZAF,South Africa,ITU_DH_POP_COV_4G,"Population coverage, at least 4G",2021,97.94
+ZAF,South Africa,ITU_DH_POP_COV_5G,"Population coverage, at least 5G",2021,16.58
+ZAF,South Africa,ITU_DH_PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),2021,22.821
+ZAF,South Africa,ITU_DH_PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),2021,2.31898
+ZAF,South Africa,ITU_DH_PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),2021,11.254
+ZAF,South Africa,ITU_DH_PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),2021,47.2209
+ZAF,South Africa,ITU_DH_PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),2021,4.79839
+ZAF,South Africa,ITU_DH_PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),2021,23.2866
+ZAF,South Africa,ITU_DH_PRI_HU_VD,Price of a high usage voice and data bundle (ITU),2021,53.163
+ZAF,South Africa,ITU_DH_PRI_HU_VD,Price of a high usage voice and data bundle (ITU),2021,5.4022
+ZAF,South Africa,ITU_DH_PRI_HU_VD,Price of a high usage voice and data bundle (ITU),2021,26.2169
+ZAF,South Africa,ITU_DH_PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),2021,14.0514
+ZAF,South Africa,ITU_DH_PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),2021,1.42785
+ZAF,South Africa,ITU_DH_PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),2021,6.92937
+ZAF,South Africa,ITU_DH_PRI_LU_VD,Price of a low usage voice and data bundle (ITU),2021,23.9549
+ZAF,South Africa,ITU_DH_PRI_LU_VD,Price of a low usage voice and data bundle (ITU),2021,2.4342
+ZAF,South Africa,ITU_DH_PRI_LU_VD,Price of a low usage voice and data bundle (ITU),2021,11.8132
+ZAF,South Africa,ITU_DH_TRAF_FIX_BB,Fixed-broadband internet traffic,2021,5.30624
+ZAF,South Africa,ITU_DH_TRAF_MOB_BB,Mobile-broadband internet traffic within the country,2021,1.93313
+ZAF,South Africa,ITU_DH_ACT_MOB_PER_100,Active mobile-broadband subscriptions per 100 inhabitants (ITU),2022,76.1471
+ZAF,South Africa,ITU_DH_COMP_FIB,Competition in Fiber (ITU),2022,2.0
+ZAF,South Africa,ITU_DH_COMP_INT_GTW,Competition in International Gateways (ITU),2022,0.0
+ZAF,South Africa,ITU_DH_COMP_INT_SER,Competition in Internet Services (ITU),2022,2.0
+ZAF,South Africa,ITU_DH_COMP_MOB_BB,Competition in Mobile Broadband (ITU),2022,2.0
+ZAF,South Africa,ITU_DH_FIX_BR_SUB_PER_100,Fixed-broadband subscriptions per 100 inhabitants (ITU),2022,3.12297
+ZAF,South Africa,ITU_DH_FIX_SUB_PER_100,Fixed-telephone subscriptions per 100 inhabitants (ITU),2022,2.09943
+ZAF,South Africa,ITU_DH_FIX_TEL_OR_MOB,Percentage of households with fixed-line telephone or mobile (ITU),2022,7.10325
+ZAF,South Africa,ITU_DH_HH_COMP,Percentage of households with a computer (ITU),2022,25.6284
+ZAF,South Africa,ITU_DH_HH_INT,Percentage of households with internet access at home (ITU),2022,75.2937
+ZAF,South Africa,ITU_DH_HH_RAD,Percentage of households with a radio (ITU),2022,34.0151
+ZAF,South Africa,ITU_DH_HH_TV,Percentage of households with TV (ITU),2022,81.4778
+ZAF,South Africa,ITU_DH_INT_BAND_PER_CAP,International bandwidth usage - per capita,2022,21028.8
+ZAF,South Africa,ITU_DH_INT_BAND_PER_INT_USR,International bandwidth usage - per internet user,2022,27869.1
+ZAF,South Africa,ITU_DH_INT_CONN_BAND,International bandwidth usage,2022,1311740.0
+ZAF,South Africa,ITU_DH_INT_CONN_BAND_CAP,Lit/equipped international bandwidth capacity,2022,2500240.0
+ZAF,South Africa,ITU_DH_INT_USER_PT,Percentage of individuals using the internet (ITU),2022,75.4556
+ZAF,South Africa,ITU_DH_MOB_SUB_PER_100,Mobile-cellular subscriptions per 100 inhabitants (ITU),2022,160.729
+ZAF,South Africa,ITU_DH_POP_COV_2G,"Population coverage, at least 2G",2022,99.95
+ZAF,South Africa,ITU_DH_POP_COV_3G,"Population coverage, at least 3G",2022,99.88
+ZAF,South Africa,ITU_DH_POP_COV_4G,"Population coverage, at least 4G",2022,98.47
+ZAF,South Africa,ITU_DH_POP_COV_5G,"Population coverage, at least 5G",2022,23.69
+ZAF,South Africa,ITU_DH_PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),2022,21.4045
+ZAF,South Africa,ITU_DH_PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),2022,1.76344
+ZAF,South Africa,ITU_DH_PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),2022,9.5869
+ZAF,South Africa,ITU_DH_PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),2022,47.2623
+ZAF,South Africa,ITU_DH_PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),2022,3.89378
+ZAF,South Africa,ITU_DH_PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),2022,21.1684
+ZAF,South Africa,ITU_DH_PRI_HU_VD,Price of a high usage voice and data bundle (ITU),2022,42.3206
+ZAF,South Africa,ITU_DH_PRI_HU_VD,Price of a high usage voice and data bundle (ITU),2022,3.48665
+ZAF,South Africa,ITU_DH_PRI_HU_VD,Price of a high usage voice and data bundle (ITU),2022,18.955
+ZAF,South Africa,ITU_DH_PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),2022,9.38063
+ZAF,South Africa,ITU_DH_PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),2022,0.772838
+ZAF,South Africa,ITU_DH_PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),2022,4.20151
+ZAF,South Africa,ITU_DH_PRI_LU_VD,Price of a low usage voice and data bundle (ITU),2022,19.2928
+ZAF,South Africa,ITU_DH_PRI_LU_VD,Price of a low usage voice and data bundle (ITU),2022,1.58947
+ZAF,South Africa,ITU_DH_PRI_LU_VD,Price of a low usage voice and data bundle (ITU),2022,8.64108
+ZAF,South Africa,ITU_DH_TRAF_FIX_BB,Fixed-broadband internet traffic,2022,5.81201
+ZAF,South Africa,ITU_DH_TRAF_MOB_BB,Mobile-broadband internet traffic within the country,2022,2.60444
+ZAF,South Africa,ITU_DH_ACT_MOB_PER_100,Active mobile-broadband subscriptions per 100 inhabitants (ITU),2023,76.1658
+ZAF,South Africa,ITU_DH_COMP_FIB,Competition in Fiber (ITU),2023,2.0
+ZAF,South Africa,ITU_DH_COMP_INT_GTW,Competition in International Gateways (ITU),2023,0.0
+ZAF,South Africa,ITU_DH_COMP_INT_SER,Competition in Internet Services (ITU),2023,2.0
+ZAF,South Africa,ITU_DH_COMP_MOB_BB,Competition in Mobile Broadband (ITU),2023,2.0
+ZAF,South Africa,ITU_DH_FIX_BR_SUB_PER_100,Fixed-broadband subscriptions per 100 inhabitants (ITU),2023,3.40566
+ZAF,South Africa,ITU_DH_FIX_SUB_PER_100,Fixed-telephone subscriptions per 100 inhabitants (ITU),2023,2.1406
+ZAF,South Africa,ITU_DH_FIX_TEL_OR_MOB,Percentage of households with fixed-line telephone or mobile (ITU),2023,4.94267
+ZAF,South Africa,ITU_DH_HH_COMP,Percentage of households with a computer (ITU),2023,25.6284
+ZAF,South Africa,ITU_DH_HH_INT,Percentage of households with internet access at home (ITU),2023,78.5948
+ZAF,South Africa,ITU_DH_HH_RAD,Percentage of households with a radio (ITU),2023,30.378
+ZAF,South Africa,ITU_DH_HH_TV,Percentage of households with TV (ITU),2023,78.3685
+ZAF,South Africa,ITU_DH_INT_BAND_PER_CAP,International bandwidth usage - per capita,2023,31090.3
+ZAF,South Africa,ITU_DH_INT_BAND_PER_INT_USR,International bandwidth usage - per internet user,2023,41092.6
+ZAF,South Africa,ITU_DH_INT_CONN_BAND,International bandwidth usage,2023,1965290.0
+ZAF,South Africa,ITU_DH_INT_CONN_BAND_CAP,Lit/equipped international bandwidth capacity,2023,3311880.0
+ZAF,South Africa,ITU_DH_INT_USER_PT,Percentage of individuals using the internet (ITU),2023,75.6592
+ZAF,South Africa,ITU_DH_MOB_SUB_PER_100,Mobile-cellular subscriptions per 100 inhabitants (ITU),2023,171.509
+ZAF,South Africa,ITU_DH_POP_COV_2G,"Population coverage, at least 2G",2023,99.88
+ZAF,South Africa,ITU_DH_POP_COV_3G,"Population coverage, at least 3G",2023,99.78
+ZAF,South Africa,ITU_DH_POP_COV_4G,"Population coverage, at least 4G",2023,98.95
+ZAF,South Africa,ITU_DH_POP_COV_5G,"Population coverage, at least 5G",2023,41.76
+ZAF,South Africa,ITU_DH_PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),2023,21.6
+ZAF,South Africa,ITU_DH_PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),2023,1.65
+ZAF,South Africa,ITU_DH_PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),2023,7.98
+ZAF,South Africa,ITU_DH_PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),2023,54.36
+ZAF,South Africa,ITU_DH_PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),2023,4.15
+ZAF,South Africa,ITU_DH_PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),2023,20.09
+ZAF,South Africa,ITU_DH_PRI_HU_VD,Price of a high usage voice and data bundle (ITU),2023,42.7
+ZAF,South Africa,ITU_DH_PRI_HU_VD,Price of a high usage voice and data bundle (ITU),2023,3.26
+ZAF,South Africa,ITU_DH_PRI_HU_VD,Price of a high usage voice and data bundle (ITU),2023,15.79
+ZAF,South Africa,ITU_DH_PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),2023,9.47
+ZAF,South Africa,ITU_DH_PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),2023,0.72
+ZAF,South Africa,ITU_DH_PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),2023,3.5
+ZAF,South Africa,ITU_DH_PRI_LU_VD,Price of a low usage voice and data bundle (ITU),2023,19.47
+ZAF,South Africa,ITU_DH_PRI_LU_VD,Price of a low usage voice and data bundle (ITU),2023,1.48
+ZAF,South Africa,ITU_DH_PRI_LU_VD,Price of a low usage voice and data bundle (ITU),2023,7.2
+ZAF,South Africa,ITU_DH_TRAF_FIX_BB,Fixed-broadband internet traffic,2023,6.71307
+ZAF,South Africa,ITU_DH_TRAF_MOB_BB,Mobile-broadband internet traffic within the country,2023,3.48031
+ZAF,South Africa,ITU_DH_ACT_MOB_PER_100,Active mobile-broadband subscriptions per 100 inhabitants (ITU),2024,72.2792
+ZAF,South Africa,ITU_DH_COMP_FIB,Competition in Fiber (ITU),2024,2.0
+ZAF,South Africa,ITU_DH_COMP_INT_GTW,Competition in International Gateways (ITU),2024,0.0
+ZAF,South Africa,ITU_DH_COMP_INT_SER,Competition in Internet Services (ITU),2024,2.0
+ZAF,South Africa,ITU_DH_COMP_MOB_BB,Competition in Mobile Broadband (ITU),2024,2.0
+ZAF,South Africa,ITU_DH_FIX_BR_SUB_PER_100,Fixed-broadband subscriptions per 100 inhabitants (ITU),2024,5.34791
+ZAF,South Africa,ITU_DH_FIX_SUB_PER_100,Fixed-telephone subscriptions per 100 inhabitants (ITU),2024,1.5827
+ZAF,South Africa,ITU_DH_FIX_TEL_OR_MOB,Percentage of households with fixed-line telephone or mobile (ITU),2024,4.94267
+ZAF,South Africa,ITU_DH_HH_COMP,Percentage of households with a computer (ITU),2024,25.6284
+ZAF,South Africa,ITU_DH_HH_INT,Percentage of households with internet access at home (ITU),2024,78.5948
+ZAF,South Africa,ITU_DH_HH_RAD,Percentage of households with a radio (ITU),2024,30.378
+ZAF,South Africa,ITU_DH_HH_TV,Percentage of households with TV (ITU),2024,78.3685
+ZAF,South Africa,ITU_DH_INT_BAND_PER_CAP,International bandwidth usage - per capita,2024,31090.3
+ZAF,South Africa,ITU_DH_INT_BAND_PER_INT_USR,International bandwidth usage - per internet user,2024,41092.6
+ZAF,South Africa,ITU_DH_INT_CONN_BAND,International bandwidth usage,2024,1965290.0
+ZAF,South Africa,ITU_DH_INT_CONN_BAND_CAP,Lit/equipped international bandwidth capacity,2024,5321480.0
+ZAF,South Africa,ITU_DH_INT_USER_PT,Percentage of individuals using the internet (ITU),2024,75.6592
+ZAF,South Africa,ITU_DH_MOB_SUB_PER_100,Mobile-cellular subscriptions per 100 inhabitants (ITU),2024,179.336
+ZAF,South Africa,ITU_DH_POP_COV_2G,"Population coverage, at least 2G",2024,99.9
+ZAF,South Africa,ITU_DH_POP_COV_3G,"Population coverage, at least 3G",2024,99.85
+ZAF,South Africa,ITU_DH_POP_COV_4G,"Population coverage, at least 4G",2024,99.41
+ZAF,South Africa,ITU_DH_POP_COV_5G,"Population coverage, at least 5G",2024,50.5
+ZAF,South Africa,ITU_DH_PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),2024,20.4
+ZAF,South Africa,ITU_DH_PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),2024,1.63
+ZAF,South Africa,ITU_DH_PRI_DO_MOB,Price of data-only mobile broadband bundle (ITU),2024,8.35
+ZAF,South Africa,ITU_DH_PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),2024,41.46
+ZAF,South Africa,ITU_DH_PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),2024,3.32
+ZAF,South Africa,ITU_DH_PRI_FIX_BB_5G,Price of a fixed broadband basket 5GB (ITU),2024,16.96
+ZAF,South Africa,ITU_DH_PRI_HU_VD,Price of a high usage voice and data bundle (ITU),2024,22.9
+ZAF,South Africa,ITU_DH_PRI_HU_VD,Price of a high usage voice and data bundle (ITU),2024,1.83
+ZAF,South Africa,ITU_DH_PRI_HU_VD,Price of a high usage voice and data bundle (ITU),2024,9.37
+ZAF,South Africa,ITU_DH_PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),2024,8.59
+ZAF,South Africa,ITU_DH_PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),2024,0.69
+ZAF,South Africa,ITU_DH_PRI_LU_MOB,Price of a mobile-cellular basket low usage (ITU),2024,3.52
+ZAF,South Africa,ITU_DH_PRI_LU_VD,Price of a low usage voice and data bundle (ITU),2024,11.71
+ZAF,South Africa,ITU_DH_PRI_LU_VD,Price of a low usage voice and data bundle (ITU),2024,0.94
+ZAF,South Africa,ITU_DH_PRI_LU_VD,Price of a low usage voice and data bundle (ITU),2024,4.79
+ZAF,South Africa,ITU_DH_TRAF_FIX_BB,Fixed-broadband internet traffic,2024,7.18521
+ZAF,South Africa,ITU_DH_TRAF_MOB_BB,Mobile-broadband internet traffic within the country,2024,3.90193
